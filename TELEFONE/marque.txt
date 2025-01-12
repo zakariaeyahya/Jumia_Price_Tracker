@@ -1,0 +1,592 @@
+<a aria-label="Seulement Boutiques Officielles." class="fk-cb -me-start -fsh0" data-eventaction="official_store" data-eventcategory="Filters Apply" data-eventlabel="1" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?official_store=1#catalog-listing">Seulement Boutiques Officielles.</a>
+---
+<a aria-label="Jumia Express" class="fk-cb -me-start -fsh0" data-eventaction="shop_premium_services" data-eventcategory="Filters Apply" data-eventlabel="shop_express" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?shop_premium_services=shop_express#catalog-listing"><svg alt="Jumia Express" class="ic -h-24" height="12" viewbox="0 0 114 12" width="114"><use xlink:href="https://www.jumia.ma/assets_he/images/i-shop-jumia.9dea3b69.svg#express"></use></svg></a>
+---
+<a aria-label="Anker" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="7045-anker" data-eventname="filters_apply" data-track-onclick="true" data-value="anker" href="/telephone-tablette/anker/#catalog-listing">Anker</a>
+---
+<a aria-label="apokin" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="135482-apokin" data-eventname="filters_apply" data-track-onclick="true" data-value="apokin" href="/telephone-tablette/apokin/#catalog-listing">apokin</a>
+---
+<a aria-label="Apple" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="9-apple" data-eventname="filters_apply" data-track-onclick="true" data-value="apple" href="/telephone-tablette/apple/#catalog-listing">Apple</a>
+---
+<a aria-label="Astro Lighting" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="23994-astro-lighting" data-eventname="filters_apply" data-track-onclick="true" data-value="astro lighting" href="/telephone-tablette/astro-lighting/#catalog-listing">Astro Lighting</a>
+---
+<a aria-label="Autre" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="24646-autre" data-eventname="filters_apply" data-track-onclick="true" data-value="autre" href="/telephone-tablette/autre/#catalog-listing">Autre</a>
+---
+<a aria-label="Awei" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="8551-awei" data-eventname="filters_apply" data-track-onclick="true" data-value="awei" href="/telephone-tablette/awei/#catalog-listing">Awei</a>
+---
+<a aria-label="Aya" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="16876-aya" data-eventname="filters_apply" data-track-onclick="true" data-value="aya" href="/telephone-tablette/aya/#catalog-listing">Aya</a>
+---
+<a aria-label="Basesus" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="26781-basesus" data-eventname="filters_apply" data-track-onclick="true" data-value="basesus" href="/telephone-tablette/basesus/#catalog-listing">Basesus</a>
+---
+<a aria-label="Baseus" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="7167-baseus" data-eventname="filters_apply" data-track-onclick="true" data-value="baseus" href="/telephone-tablette/baseus/#catalog-listing">Baseus</a>
+---
+<a aria-label="Blue Spectrum" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="30733-blue-spectrum" data-eventname="filters_apply" data-track-onclick="true" data-value="blue spectrum" href="/telephone-tablette/blue-spectrum/#catalog-listing">Blue Spectrum</a>
+---
+<a aria-label="Book Cover" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="31545-book-cover" data-eventname="filters_apply" data-track-onclick="true" data-value="book cover" href="/telephone-tablette/book-cover/#catalog-listing">Book Cover</a>
+---
+<a aria-label="Borofone" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="8565-borofone" data-eventname="filters_apply" data-track-onclick="true" data-value="borofone" href="/telephone-tablette/borofone/#catalog-listing">Borofone</a>
+---
+<a aria-label="Cas" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="35110-cas" data-eventname="filters_apply" data-track-onclick="true" data-value="cas" href="/telephone-tablette/cas/#catalog-listing">Cas</a>
+---
+<a aria-label="Case" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="11872-case" data-eventname="filters_apply" data-track-onclick="true" data-value="case" href="/telephone-tablette/case/#catalog-listing">Case</a>
+---
+<a aria-label="Cclamp" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="131576-cclamp" data-eventname="filters_apply" data-track-onclick="true" data-value="cclamp" href="/telephone-tablette/cclamp/#catalog-listing">Cclamp</a>
+---
+<a aria-label="Ceramic" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="35947-ceramic" data-eventname="filters_apply" data-track-onclick="true" data-value="ceramic" href="/telephone-tablette/ceramic/#catalog-listing">Ceramic</a>
+---
+<a aria-label="Ceramics" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="35951-ceramics" data-eventname="filters_apply" data-track-onclick="true" data-value="ceramics" href="/telephone-tablette/ceramics/#catalog-listing">Ceramics</a>
+---
+<a aria-label="Clear View" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="12183-clear-view" data-eventname="filters_apply" data-track-onclick="true" data-value="clear view" href="/telephone-tablette/clear-view/#catalog-listing">Clear View</a>
+---
+<a aria-label="Colmi" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="39299-colmi" data-eventname="filters_apply" data-track-onclick="true" data-value="colmi" href="/telephone-tablette/colmi/#catalog-listing">Colmi</a>
+---
+<a aria-label="Corn" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="40315-corn" data-eventname="filters_apply" data-track-onclick="true" data-value="corn" href="/telephone-tablette/corn/#catalog-listing">Corn</a>
+---
+<a aria-label="Cover" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="40734-cover" data-eventname="filters_apply" data-track-onclick="true" data-value="cover" href="/telephone-tablette/cover/#catalog-listing">Cover</a>
+---
+<a aria-label="Decorative" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="43578-decorative" data-eventname="filters_apply" data-track-onclick="true" data-value="decorative" href="/telephone-tablette/decorative/#catalog-listing">Decorative</a>
+---
+<a aria-label="Deep Bass" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="43646-deep-bass" data-eventname="filters_apply" data-track-onclick="true" data-value="deep bass" href="/telephone-tablette/deep-bass/#catalog-listing">Deep Bass</a>
+---
+<a aria-label="Digitplus" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="6825-digitplus" data-eventname="filters_apply" data-track-onclick="true" data-value="digitplus" href="/telephone-tablette/digitplus/#catalog-listing">Digitplus</a>
+---
+<a aria-label="DINEX" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="132441-dinex" data-eventname="filters_apply" data-track-onclick="true" data-value="dinex" href="/telephone-tablette/dinex/#catalog-listing">DINEX</a>
+---
+<a aria-label="DUNSPIN" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="137917-dunspin" data-eventname="filters_apply" data-track-onclick="true" data-value="dunspin" href="/telephone-tablette/dunspin/#catalog-listing">DUNSPIN</a>
+---
+<a aria-label="Energy Sistem" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="447-energy-sistem" data-eventname="filters_apply" data-track-onclick="true" data-value="energy sistem" href="/telephone-tablette/energy-sistem/#catalog-listing">Energy Sistem</a>
+---
+<a aria-label="Essager" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="16675-essager" data-eventname="filters_apply" data-track-onclick="true" data-value="essager" href="/telephone-tablette/essager/#catalog-listing">Essager</a>
+---
+<a aria-label="Fashion Case" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="4436-fashion-case" data-eventname="filters_apply" data-track-onclick="true" data-value="fashion case" href="/telephone-tablette/fashion-case/#catalog-listing">Fashion Case</a>
+---
+<a aria-label="Foneng" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="132462-foneng" data-eventname="filters_apply" data-track-onclick="true" data-value="foneng" href="/telephone-tablette/foneng/#catalog-listing">Foneng</a>
+---
+<a aria-label="General" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="4570-general" data-eventname="filters_apply" data-track-onclick="true" data-value="general" href="/telephone-tablette/general/#catalog-listing">General</a>
+---
+<a aria-label="Generic" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="8232-generic" data-eventname="filters_apply" data-track-onclick="true" data-value="generic" href="/telephone-tablette/generic/#catalog-listing">Generic</a>
+---
+<a aria-label="Glass" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="58833-glass" data-eventname="filters_apply" data-track-onclick="true" data-value="glass" href="/telephone-tablette/glass/#catalog-listing">Glass</a>
+---
+<a aria-label="Goui" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="60159-goui" data-eventname="filters_apply" data-track-onclick="true" data-value="goui" href="/telephone-tablette/goui/#catalog-listing">Goui</a>
+---
+<a aria-label="Haylou" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="63171-haylou" data-eventname="filters_apply" data-track-onclick="true" data-value="haylou" href="/telephone-tablette/haylou/#catalog-listing">Haylou</a>
+---
+<a aria-label="Hoco" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="6471-hoco" data-eventname="filters_apply" data-track-onclick="true" data-value="hoco" href="/telephone-tablette/hoco/#catalog-listing">Hoco</a>
+---
+<a aria-label="Honor" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="4676-honor" data-eventname="filters_apply" data-track-onclick="true" data-value="honor" href="/telephone-tablette/honor/#catalog-listing">Honor</a>
+---
+<a aria-label="Huawei" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="830-huawei" data-eventname="filters_apply" data-track-onclick="true" data-value="huawei" href="/telephone-tablette/huawei/#catalog-listing">Huawei</a>
+---
+<a aria-label="iboga" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="133835-iboga" data-eventname="filters_apply" data-track-onclick="true" data-value="iboga" href="/telephone-tablette/iboga/#catalog-listing">iboga</a>
+---
+<a aria-label="Infinix" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="4339-infinix" data-eventname="filters_apply" data-track-onclick="true" data-value="infinix" href="/telephone-tablette/infinix/#catalog-listing">Infinix</a>
+---
+<a aria-label="Ipega" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="3849-ipega" data-eventname="filters_apply" data-track-onclick="true" data-value="ipega" href="/telephone-tablette/ipega/#catalog-listing">Ipega</a>
+---
+<a aria-label="Itel" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="6879-itel" data-eventname="filters_apply" data-track-onclick="true" data-value="itel" href="/telephone-tablette/itel/#catalog-listing">Itel</a>
+---
+<a aria-label="JBL" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="452-jbl" data-eventname="filters_apply" data-track-onclick="true" data-value="jbl" href="/telephone-tablette/jbl/#catalog-listing">JBL</a>
+---
+<a aria-label="Joko" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="137767-joko" data-eventname="filters_apply" data-track-onclick="true" data-value="joko" href="/telephone-tablette/joko/#catalog-listing">Joko</a>
+---
+<a aria-label="Kakusiga" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="73318-kakusiga" data-eventname="filters_apply" data-track-onclick="true" data-value="kakusiga" href="/telephone-tablette/kakusiga/#catalog-listing">Kakusiga</a>
+---
+<a aria-label="Kieslect" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="135914-kieslect" data-eventname="filters_apply" data-track-onclick="true" data-value="kieslect" href="/telephone-tablette/kieslect/#catalog-listing">Kieslect</a>
+---
+<a aria-label="Kingston" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="1119-kingston" data-eventname="filters_apply" data-track-onclick="true" data-value="kingston" href="/telephone-tablette/kingston/#catalog-listing">Kingston</a>
+---
+<a aria-label="Konfulon" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="5505-konfulon" data-eventname="filters_apply" data-track-onclick="true" data-value="konfulon" href="/telephone-tablette/konfulon/#catalog-listing">Konfulon</a>
+---
+<a aria-label="Koocu" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="12562-koocu" data-eventname="filters_apply" data-track-onclick="true" data-value="koocu" href="/telephone-tablette/koocu/#catalog-listing">Koocu</a>
+---
+<a aria-label="Ldnio" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="5336-ldnio" data-eventname="filters_apply" data-track-onclick="true" data-value="ldnio" href="/telephone-tablette/ldnio/#catalog-listing">Ldnio</a>
+---
+<a aria-label="Lenovo" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="18-lenovo" data-eventname="filters_apply" data-track-onclick="true" data-value="lenovo" href="/telephone-tablette/lenovo/#catalog-listing">Lenovo</a>
+---
+<a aria-label="Logicom" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="1430-logicom" data-eventname="filters_apply" data-track-onclick="true" data-value="logicom" href="/telephone-tablette/logicom/#catalog-listing">Logicom</a>
+---
+<a aria-label="M10" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="136344-brand-m10" data-eventname="filters_apply" data-track-onclick="true" data-value="m10" href="/telephone-tablette/brand-m10/#catalog-listing">M10</a>
+---
+<a aria-label="Mibro" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="134994-mibro" data-eventname="filters_apply" data-track-onclick="true" data-value="mibro" href="/telephone-tablette/mibro/#catalog-listing">Mibro</a>
+---
+<a aria-label="Moi" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="91152-moi" data-eventname="filters_apply" data-track-onclick="true" data-value="moi" href="/telephone-tablette/moi/#catalog-listing">Moi</a>
+---
+<a aria-label="Motorola" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="215-motorola" data-eventname="filters_apply" data-track-onclick="true" data-value="motorola" href="/telephone-tablette/motorola/#catalog-listing">Motorola</a>
+---
+<a aria-label="Moxom" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="7243-moxom" data-eventname="filters_apply" data-track-onclick="true" data-value="moxom" href="/telephone-tablette/moxom/#catalog-listing">Moxom</a>
+---
+<a aria-label="Naruto" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="94394-naruto" data-eventname="filters_apply" data-track-onclick="true" data-value="naruto" href="/telephone-tablette/naruto/#catalog-listing">Naruto</a>
+---
+<a aria-label="Nia" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="3264-nia" data-eventname="filters_apply" data-track-onclick="true" data-value="nia" href="/telephone-tablette/nia/#catalog-listing">Nia</a>
+---
+<a aria-label="Nokia" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="228-nokia" data-eventname="filters_apply" data-track-onclick="true" data-value="nokia" href="/telephone-tablette/nokia/#catalog-listing">Nokia</a>
+---
+<a aria-label="Oppo" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="4168-oppo" data-eventname="filters_apply" data-track-onclick="true" data-value="oppo" href="/telephone-tablette/oppo/#catalog-listing">Oppo</a>
+---
+<a aria-label="Oraimo" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="12080-oraimo" data-eventname="filters_apply" data-track-onclick="true" data-value="oraimo" href="/telephone-tablette/oraimo/#catalog-listing">Oraimo</a>
+---
+<a aria-label="Other" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="5965-no-brand" data-eventname="filters_apply" data-track-onclick="true" data-value="other" href="/telephone-tablette/no-brand/#catalog-listing">Other</a>
+---
+<a aria-label="P9" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="136854-p9" data-eventname="filters_apply" data-track-onclick="true" data-value="p9" href="/telephone-tablette/p9/#catalog-listing">P9</a>
+---
+<a aria-label="Panasonic" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="240-panasonic" data-eventname="filters_apply" data-track-onclick="true" data-value="panasonic" href="/telephone-tablette/panasonic/#catalog-listing">Panasonic</a>
+---
+<a aria-label="Philips" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="1046-philips" data-eventname="filters_apply" data-track-onclick="true" data-value="philips" href="/telephone-tablette/philips/#catalog-listing">Philips</a>
+---
+<a aria-label="Plustar" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="10766-plustar" data-eventname="filters_apply" data-track-onclick="true" data-value="plustar" href="/telephone-tablette/plustar/#catalog-listing">Plustar</a>
+---
+<a aria-label="Puloka" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="9143-puloka" data-eventname="filters_apply" data-track-onclick="true" data-value="puloka" href="/telephone-tablette/puloka/#catalog-listing">Puloka</a>
+---
+<a aria-label="QUIVANA" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="135048-quivana" data-eventname="filters_apply" data-track-onclick="true" data-value="quivana" href="/telephone-tablette/quivana/#catalog-listing">QUIVANA</a>
+---
+<a aria-label="Realfit" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="138554-realfit" data-eventname="filters_apply" data-track-onclick="true" data-value="realfit" href="/telephone-tablette/realfit/#catalog-listing">Realfit</a>
+---
+<a aria-label="realme" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="108238-realme" data-eventname="filters_apply" data-track-onclick="true" data-value="realme" href="/telephone-tablette/realme/#catalog-listing">realme</a>
+---
+<a aria-label="Remax" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="3238-remax" data-eventname="filters_apply" data-track-onclick="true" data-value="remax" href="/telephone-tablette/remax/#catalog-listing">Remax</a>
+---
+<a aria-label="Revoox" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="134782-revoox" data-eventname="filters_apply" data-track-onclick="true" data-value="revoox" href="/telephone-tablette/revoox/#catalog-listing">Revoox</a>
+---
+<a aria-label="Riversong" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="109732-riversong" data-eventname="filters_apply" data-track-onclick="true" data-value="riversong" href="/telephone-tablette/riversong/#catalog-listing">Riversong</a>
+---
+<a aria-label="Rock Space" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="110221-rock-space" data-eventname="filters_apply" data-track-onclick="true" data-value="rock space" href="/telephone-tablette/rock-space/#catalog-listing">Rock Space</a>
+---
+<a aria-label="ROCOREN" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="137484-rocoren" data-eventname="filters_apply" data-track-onclick="true" data-value="rocoren" href="/telephone-tablette/rocoren/#catalog-listing">ROCOREN</a>
+---
+<a aria-label="Royal" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="2663-royal" data-eventname="filters_apply" data-track-onclick="true" data-value="royal" href="/telephone-tablette/royal/#catalog-listing">Royal</a>
+---
+<a aria-label="Samsung" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="24-samsung" data-eventname="filters_apply" data-track-onclick="true" data-value="samsung" href="/telephone-tablette/samsung/#catalog-listing">Samsung</a>
+---
+<a aria-label="Sandisk" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="277-sandisk" data-eventname="filters_apply" data-track-onclick="true" data-value="sandisk" href="/telephone-tablette/sandisk/#catalog-listing">Sandisk</a>
+---
+<a aria-label="Shtel" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="136376-brand-shtel" data-eventname="filters_apply" data-track-onclick="true" data-value="shtel" href="/telephone-tablette/brand-shtel/#catalog-listing">Shtel</a>
+---
+<a aria-label="Smart 2030" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="116279-smart-2030" data-eventname="filters_apply" data-track-onclick="true" data-value="smart 2030" href="/telephone-tablette/smart-2030/#catalog-listing">Smart 2030</a>
+---
+<a aria-label="Smart Bracelet" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="116293-smart-bracelet" data-eventname="filters_apply" data-track-onclick="true" data-value="smart bracelet" href="/telephone-tablette/smart-bracelet/#catalog-listing">Smart Bracelet</a>
+---
+<a aria-label="Smart Watch" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="116404-smart-watch" data-eventname="filters_apply" data-track-onclick="true" data-value="smart watch" href="/telephone-tablette/smart-watch/#catalog-listing">Smart Watch</a>
+---
+<a aria-label="Smartwatch" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="116405-smartwatch" data-eventname="filters_apply" data-track-onclick="true" data-value="smartwatch" href="/telephone-tablette/smartwatch/#catalog-listing">Smartwatch</a>
+---
+<a aria-label="Sony" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="298-sony" data-eventname="filters_apply" data-track-onclick="true" data-value="sony" href="/telephone-tablette/sony/#catalog-listing">Sony</a>
+---
+<a aria-label="Spigen" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="5753-spigen" data-eventname="filters_apply" data-track-onclick="true" data-value="spigen" href="/telephone-tablette/spigen/#catalog-listing">Spigen</a>
+---
+<a aria-label="T'nB" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="9558-t-nb" data-eventname="filters_apply" data-track-onclick="true" data-value="t'nb" href="/telephone-tablette/t-nb/#catalog-listing">T'nB</a>
+---
+<a aria-label="Tecno" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="6679-tecno" data-eventname="filters_apply" data-track-onclick="true" data-value="tecno" href="/telephone-tablette/tecno/#catalog-listing">Tecno</a>
+---
+<a aria-label="Telefunken" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="7492-telefunken" data-eventname="filters_apply" data-track-onclick="true" data-value="telefunken" href="/telephone-tablette/telefunken/#catalog-listing">Telefunken</a>
+---
+<a aria-label="TENGOO" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="132910-tengoo" data-eventname="filters_apply" data-track-onclick="true" data-value="tengoo" href="/telephone-tablette/tengoo/#catalog-listing">TENGOO</a>
+---
+<a aria-label="Toocki" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="137637-toocki" data-eventname="filters_apply" data-track-onclick="true" data-value="toocki" href="/telephone-tablette/toocki/#catalog-listing">Toocki</a>
+---
+<a aria-label="tripod" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="10216-tripod" data-eventname="filters_apply" data-track-onclick="true" data-value="tripod" href="/telephone-tablette/tripod/#catalog-listing">tripod</a>
+---
+<a aria-label="TWS" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="11500-tws" data-eventname="filters_apply" data-track-onclick="true" data-value="tws" href="/telephone-tablette/tws/#catalog-listing">TWS</a>
+---
+<a aria-label="VARTA" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="2803-varta" data-eventname="filters_apply" data-track-onclick="true" data-value="varta" href="/telephone-tablette/varta/#catalog-listing">VARTA</a>
+---
+<a aria-label="Vidvie" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="6651-vidvie" data-eventname="filters_apply" data-track-onclick="true" data-value="vidvie" href="/telephone-tablette/vidvie/#catalog-listing">Vidvie</a>
+---
+<a aria-label="VR Box" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="8945-vr-box-brand" data-eventname="filters_apply" data-track-onclick="true" data-value="vr box" href="/telephone-tablette/vr-box-brand/#catalog-listing">VR Box</a>
+---
+<a aria-label="XIAOMI" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="4737-xiaomi" data-eventname="filters_apply" data-track-onclick="true" data-value="xiaomi" href="/telephone-tablette/xiaomi/#catalog-listing">XIAOMI</a>
+---
+<a aria-label="XO" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="5924-xo" data-eventname="filters_apply" data-track-onclick="true" data-value="xo" href="/telephone-tablette/xo/#catalog-listing">XO</a>
+---
+<a aria-label="Zeblaze" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="8974-zeblaze" data-eventname="filters_apply" data-track-onclick="true" data-value="zeblaze" href="/telephone-tablette/zeblaze/#catalog-listing">Zeblaze</a>
+---
+<a aria-label="ZTE" class="fk-cb -me-start -fsh0" data-eventaction="brand" data-eventcategory="Filters Apply" data-eventlabel="1424-zte" data-eventname="filters_apply" data-track-onclick="true" data-value="zte" href="/telephone-tablette/zte/#catalog-listing">ZTE</a>
+---
+<a aria-label="American Beauty" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="American Beauty" data-eventname="filters_apply" data-track-onclick="true" data-value="american beauty" href="/telephone-tablette/?color_family=American+Beauty#catalog-listing">American Beauty</a>
+---
+<a aria-label="Animal Prints" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Animal Prints" data-eventname="filters_apply" data-track-onclick="true" data-value="animal prints" href="/telephone-tablette/?color_family=Animal+Prints#catalog-listing">Animal Prints</a>
+---
+<a aria-label="Beige" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Beige" data-eventname="filters_apply" data-track-onclick="true" data-value="beige" href="/telephone-tablette/?color_family=Beige#catalog-listing">Beige</a>
+---
+<a aria-label="Black/Gold" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Black/Gold" data-eventname="filters_apply" data-track-onclick="true" data-value="black/gold" href="/telephone-tablette/?color_family=Black%2FGold#catalog-listing">Black/Gold</a>
+---
+<a aria-label="Black/Pink" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Black/Pink" data-eventname="filters_apply" data-track-onclick="true" data-value="black/pink" href="/telephone-tablette/?color_family=Black%2FPink#catalog-listing">Black/Pink</a>
+---
+<a aria-label="Black Night" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Black Night" data-eventname="filters_apply" data-track-onclick="true" data-value="black night" href="/telephone-tablette/?color_family=Black+Night#catalog-listing">Black Night</a>
+---
+<a aria-label="Blue Sky" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Blue Sky" data-eventname="filters_apply" data-track-onclick="true" data-value="blue sky" href="/telephone-tablette/?color_family=Blue+Sky#catalog-listing">Blue Sky</a>
+---
+<a aria-label="Brick" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Brick" data-eventname="filters_apply" data-track-onclick="true" data-value="brick" href="/telephone-tablette/?color_family=Brick#catalog-listing">Brick</a>
+---
+<a aria-label="Bronze" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Bronze" data-eventname="filters_apply" data-track-onclick="true" data-value="bronze" href="/telephone-tablette/?color_family=Bronze#catalog-listing">Bronze</a>
+---
+<a aria-label="Burgundy" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Burgundy" data-eventname="filters_apply" data-track-onclick="true" data-value="burgundy" href="/telephone-tablette/?color_family=Burgundy#catalog-listing">Burgundy</a>
+---
+<a aria-label="Copper" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Copper" data-eventname="filters_apply" data-track-onclick="true" data-value="copper" href="/telephone-tablette/?color_family=Copper#catalog-listing">Copper</a>
+---
+<a aria-label="Cyan" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Cyan" data-eventname="filters_apply" data-track-onclick="true" data-value="cyan" href="/telephone-tablette/?color_family=Cyan#catalog-listing">Cyan</a>
+---
+<a aria-label="Dark Brown" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Dark Brown" data-eventname="filters_apply" data-track-onclick="true" data-value="dark brown" href="/telephone-tablette/?color_family=Dark+Brown#catalog-listing">Dark Brown</a>
+---
+<a aria-label="Dark Green" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Dark Green" data-eventname="filters_apply" data-track-onclick="true" data-value="dark green" href="/telephone-tablette/?color_family=Dark+Green#catalog-listing">Dark Green</a>
+---
+<a aria-label="Dark Mauve" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Dark Mauve" data-eventname="filters_apply" data-track-onclick="true" data-value="dark mauve" href="/telephone-tablette/?color_family=Dark+Mauve#catalog-listing">Dark Mauve</a>
+---
+<a aria-label="Greyish Blue" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Greyish Blue" data-eventname="filters_apply" data-track-onclick="true" data-value="greyish blue" href="/telephone-tablette/?color_family=Greyish+Blue#catalog-listing">Greyish Blue</a>
+---
+<a aria-label="Iron" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Iron" data-eventname="filters_apply" data-track-onclick="true" data-value="iron" href="/telephone-tablette/?color_family=Iron#catalog-listing">Iron</a>
+---
+<a aria-label="Ivory" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Ivory" data-eventname="filters_apply" data-track-onclick="true" data-value="ivory" href="/telephone-tablette/?color_family=Ivory#catalog-listing">Ivory</a>
+---
+<a aria-label="Lime Green" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Lime Green" data-eventname="filters_apply" data-track-onclick="true" data-value="lime green" href="/telephone-tablette/?color_family=Lime+Green#catalog-listing">Lime Green</a>
+---
+<a aria-label="Matte Black" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Matte Black" data-eventname="filters_apply" data-track-onclick="true" data-value="matte black" href="/telephone-tablette/?color_family=Matte+Black#catalog-listing">Matte Black</a>
+---
+<a aria-label="Metallic Blue" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Metallic Blue" data-eventname="filters_apply" data-track-onclick="true" data-value="metallic blue" href="/telephone-tablette/?color_family=Metallic+Blue#catalog-listing">Metallic Blue</a>
+---
+<a aria-label="Off-White" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Off-White" data-eventname="filters_apply" data-track-onclick="true" data-value="off-white" href="/telephone-tablette/?color_family=Off-White#catalog-listing">Off-White</a>
+---
+<a aria-label="Orange" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Orange" data-eventname="filters_apply" data-track-onclick="true" data-value="orange" href="/telephone-tablette/?color_family=Orange#catalog-listing">Orange</a>
+---
+<a aria-label="Pink Glam" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Pink Glam" data-eventname="filters_apply" data-track-onclick="true" data-value="pink glam" href="/telephone-tablette/?color_family=Pink+Glam#catalog-listing">Pink Glam</a>
+---
+<a aria-label="Purple" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Purple" data-eventname="filters_apply" data-track-onclick="true" data-value="purple" href="/telephone-tablette/?color_family=Purple#catalog-listing">Purple</a>
+---
+<a aria-label="Rose Gold" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Rose Gold" data-eventname="filters_apply" data-track-onclick="true" data-value="rose gold" href="/telephone-tablette/?color_family=Rose+Gold#catalog-listing">Rose Gold</a>
+---
+<a aria-label="Silver Dots" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Silver Dots" data-eventname="filters_apply" data-track-onclick="true" data-value="silver dots" href="/telephone-tablette/?color_family=Silver+Dots#catalog-listing">Silver Dots</a>
+---
+<a aria-label="Soft Black" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Soft Black" data-eventname="filters_apply" data-track-onclick="true" data-value="soft black" href="/telephone-tablette/?color_family=Soft+Black#catalog-listing">Soft Black</a>
+---
+<a aria-label="Taupe" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Taupe" data-eventname="filters_apply" data-track-onclick="true" data-value="taupe" href="/telephone-tablette/?color_family=Taupe#catalog-listing">Taupe</a>
+---
+<a aria-label="Turquoise" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Turquoise" data-eventname="filters_apply" data-track-onclick="true" data-value="turquoise" href="/telephone-tablette/?color_family=Turquoise#catalog-listing">Turquoise</a>
+---
+<a aria-label="Turquoise Green" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Turquoise Green" data-eventname="filters_apply" data-track-onclick="true" data-value="turquoise green" href="/telephone-tablette/?color_family=Turquoise+Green#catalog-listing">Turquoise Green</a>
+---
+<a aria-label="Vibrant Green" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Vibrant Green" data-eventname="filters_apply" data-track-onclick="true" data-value="vibrant green" href="/telephone-tablette/?color_family=Vibrant+Green#catalog-listing">Vibrant Green</a>
+---
+<a aria-label="Wood" class="fk-cb -me-start -fsh0" data-eventaction="color_family" data-eventcategory="Filters Apply" data-eventlabel="Wood" data-eventname="filters_apply" data-track-onclick="true" data-value="wood" href="/telephone-tablette/?color_family=Wood#catalog-listing">Wood</a>
+---
+<a aria-label="1.1" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="1.1" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=1.1#catalog-listing">1.1</a>
+---
+<a aria-label="1.6" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="1.6" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=1.6#catalog-listing">1.6</a>
+---
+<a aria-label="4.5" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="4.5" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=4.5#catalog-listing">4.5</a>
+---
+<a aria-label="6" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6#catalog-listing">6</a>
+---
+<a aria-label="6.1" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6.1" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6.1#catalog-listing">6.1</a>
+---
+<a aria-label="6.3" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6.3" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6.3#catalog-listing">6.3</a>
+---
+<a aria-label="6.5" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6.5" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6.5#catalog-listing">6.5</a>
+---
+<a aria-label="6.6" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6.6" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6.6#catalog-listing">6.6</a>
+---
+<a aria-label="6.7" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6.7" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6.7#catalog-listing">6.7</a>
+---
+<a aria-label="6.8" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6.8" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6.8#catalog-listing">6.8</a>
+---
+<a aria-label="6.9" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="6.9" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=6.9#catalog-listing">6.9</a>
+---
+<a aria-label="7" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="7" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=7#catalog-listing">7</a>
+---
+<a aria-label="10" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="10" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=10#catalog-listing">10</a>
+---
+<a aria-label="10.1" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="10.1" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=10.1#catalog-listing">10.1</a>
+---
+<a aria-label="10.9" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="10.9" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=10.9#catalog-listing">10.9</a>
+---
+<a aria-label="12.9" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="12.9" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=12.9#catalog-listing">12.9</a>
+---
+<a aria-label="13.5" class="fk-cb -me-start -fsh0" data-eventaction="screen_size" data-eventcategory="Filters Apply" data-eventlabel="13.5" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?screen_size=13.5#catalog-listing">13.5</a>
+---
+<a aria-label="Android" class="fk-cb -me-start -fsh0" data-eventaction="operating_system" data-eventcategory="Filters Apply" data-eventlabel="Android" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?operating_system=Android#catalog-listing">Android</a>
+---
+<a aria-label="Android 4.4" class="fk-cb -me-start -fsh0" data-eventaction="operating_system" data-eventcategory="Filters Apply" data-eventlabel="Android 4.4" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?operating_system=Android+4.4#catalog-listing">Android 4.4</a>
+---
+<a aria-label="Android 5.1" class="fk-cb -me-start -fsh0" data-eventaction="operating_system" data-eventcategory="Filters Apply" data-eventlabel="Android 5.1" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?operating_system=Android+5.1#catalog-listing">Android 5.1</a>
+---
+<a aria-label="Android 6.0" class="fk-cb -me-start -fsh0" data-eventaction="operating_system" data-eventcategory="Filters Apply" data-eventlabel="Android 6.0" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?operating_system=Android+6.0#catalog-listing">Android 6.0</a>
+---
+<a aria-label="iOS" class="fk-cb -me-start -fsh0" data-eventaction="operating_system" data-eventcategory="Filters Apply" data-eventlabel="iOS" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?operating_system=iOS#catalog-listing">iOS</a>
+---
+<a aria-label="Sans OS" class="fk-cb -me-start -fsh0" data-eventaction="operating_system" data-eventcategory="Filters Apply" data-eventlabel="Sans OS" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?operating_system=Sans+OS#catalog-listing">Sans OS</a>
+---
+<a aria-label="Windows" class="fk-cb -me-start -fsh0" data-eventaction="operating_system" data-eventcategory="Filters Apply" data-eventlabel="Windows" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?operating_system=Windows#catalog-listing">Windows</a>
+---
+<a aria-label="0.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="0.0" data-eventname="filters_apply" data-track-onclick="true" data-value="0.0" href="/telephone-tablette/?megapixels=0.0#catalog-listing">0.0</a>
+---
+<a aria-label="0.3" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="0.3" data-eventname="filters_apply" data-track-onclick="true" data-value="0.3" href="/telephone-tablette/?megapixels=0.3#catalog-listing">0.3</a>
+---
+<a aria-label="2" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="2" data-eventname="filters_apply" data-track-onclick="true" data-value="2" href="/telephone-tablette/?megapixels=2#catalog-listing">2</a>
+---
+<a aria-label="2.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="2.0" data-eventname="filters_apply" data-track-onclick="true" data-value="2.0" href="/telephone-tablette/?megapixels=2.0#catalog-listing">2.0</a>
+---
+<a aria-label="5" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="5" data-eventname="filters_apply" data-track-onclick="true" data-value="5" href="/telephone-tablette/?megapixels=5#catalog-listing">5</a>
+---
+<a aria-label="5.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="5.0" data-eventname="filters_apply" data-track-onclick="true" data-value="5.0" href="/telephone-tablette/?megapixels=5.0#catalog-listing">5.0</a>
+---
+<a aria-label="8" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="8" data-eventname="filters_apply" data-track-onclick="true" data-value="8" href="/telephone-tablette/?megapixels=8#catalog-listing">8</a>
+---
+<a aria-label="8.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="8.0" data-eventname="filters_apply" data-track-onclick="true" data-value="8.0" href="/telephone-tablette/?megapixels=8.0#catalog-listing">8.0</a>
+---
+<a aria-label="12" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="12" data-eventname="filters_apply" data-track-onclick="true" data-value="12" href="/telephone-tablette/?megapixels=12#catalog-listing">12</a>
+---
+<a aria-label="12.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="12.0" data-eventname="filters_apply" data-track-onclick="true" data-value="12.0" href="/telephone-tablette/?megapixels=12.0#catalog-listing">12.0</a>
+---
+<a aria-label="13" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="13" data-eventname="filters_apply" data-track-onclick="true" data-value="13" href="/telephone-tablette/?megapixels=13#catalog-listing">13</a>
+---
+<a aria-label="13.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="13.0" data-eventname="filters_apply" data-track-onclick="true" data-value="13.0" href="/telephone-tablette/?megapixels=13.0#catalog-listing">13.0</a>
+---
+<a aria-label="14" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="14" data-eventname="filters_apply" data-track-onclick="true" data-value="14" href="/telephone-tablette/?megapixels=14#catalog-listing">14</a>
+---
+<a aria-label="16" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="16" data-eventname="filters_apply" data-track-onclick="true" data-value="16" href="/telephone-tablette/?megapixels=16#catalog-listing">16</a>
+---
+<a aria-label="16.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="16.0" data-eventname="filters_apply" data-track-onclick="true" data-value="16.0" href="/telephone-tablette/?megapixels=16.0#catalog-listing">16.0</a>
+---
+<a aria-label="18" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="18" data-eventname="filters_apply" data-track-onclick="true" data-value="18" href="/telephone-tablette/?megapixels=18#catalog-listing">18</a>
+---
+<a aria-label="20" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="20" data-eventname="filters_apply" data-track-onclick="true" data-value="20" href="/telephone-tablette/?megapixels=20#catalog-listing">20</a>
+---
+<a aria-label="24.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="24.0" data-eventname="filters_apply" data-track-onclick="true" data-value="24.0" href="/telephone-tablette/?megapixels=24.0#catalog-listing">24.0</a>
+---
+<a aria-label="25.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="25.0" data-eventname="filters_apply" data-track-onclick="true" data-value="25.0" href="/telephone-tablette/?megapixels=25.0#catalog-listing">25.0</a>
+---
+<a aria-label="32" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="32" data-eventname="filters_apply" data-track-onclick="true" data-value="32" href="/telephone-tablette/?megapixels=32#catalog-listing">32</a>
+---
+<a aria-label="32.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="32.0" data-eventname="filters_apply" data-track-onclick="true" data-value="32.0" href="/telephone-tablette/?megapixels=32.0#catalog-listing">32.0</a>
+---
+<a aria-label="48" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="48" data-eventname="filters_apply" data-track-onclick="true" data-value="48" href="/telephone-tablette/?megapixels=48#catalog-listing">48</a>
+---
+<a aria-label="50" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="50" data-eventname="filters_apply" data-track-onclick="true" data-value="50" href="/telephone-tablette/?megapixels=50#catalog-listing">50</a>
+---
+<a aria-label="108" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="108" data-eventname="filters_apply" data-track-onclick="true" data-value="108" href="/telephone-tablette/?megapixels=108#catalog-listing">108</a>
+---
+<a aria-label="512.0" class="fk-cb -me-start -fsh0" data-eventaction="megapixels" data-eventcategory="Filters Apply" data-eventlabel="512.0" data-eventname="filters_apply" data-track-onclick="true" data-value="512.0" href="/telephone-tablette/?megapixels=512.0#catalog-listing">512.0</a>
+---
+<a aria-label="0.00" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="0.00" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=0.00#catalog-listing">0.00</a>
+---
+<a aria-label="0.32" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="0.32" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=0.32#catalog-listing">0.32</a>
+---
+<a aria-label="1.00" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="1.00" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=1.00#catalog-listing">1.00</a>
+---
+<a aria-label="1.50" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="1.50" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=1.50#catalog-listing">1.50</a>
+---
+<a aria-label="2.00" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="2.00" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=2.00#catalog-listing">2.00</a>
+---
+<a aria-label="3.00" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="3.00" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=3.00#catalog-listing">3.00</a>
+---
+<a aria-label="4.00" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="4.00" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=4.00#catalog-listing">4.00</a>
+---
+<a aria-label="6" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="6" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=6#catalog-listing">6</a>
+---
+<a aria-label="6.00" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="6.00" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=6.00#catalog-listing">6.00</a>
+---
+<a aria-label="8.00" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="8.00" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=8.00#catalog-listing">8.00</a>
+---
+<a aria-label="32GB" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="32GB" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=32GB#catalog-listing">32GB</a>
+---
+<a aria-label="64GB" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="64GB" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=64GB#catalog-listing">64GB</a>
+---
+<a aria-label="128GB" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="128GB" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=128GB#catalog-listing">128GB</a>
+---
+<a aria-label="128MB" class="fk-cb -me-start -fsh0" data-eventaction="system_memory" data-eventcategory="Filters Apply" data-eventlabel="128MB" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?system_memory=128MB#catalog-listing">128MB</a>
+---
+<a aria-label="0" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="0" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=0#catalog-listing">0</a>
+---
+<a aria-label="1" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="1" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=1#catalog-listing">1</a>
+---
+<a aria-label="4" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="4" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=4#catalog-listing">4</a>
+---
+<a aria-label="8" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="8" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=8#catalog-listing">8</a>
+---
+<a aria-label="16" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="16" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=16#catalog-listing">16</a>
+---
+<a aria-label="32" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="32" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=32#catalog-listing">32</a>
+---
+<a aria-label="64" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="64" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=64#catalog-listing">64</a>
+---
+<a aria-label="128" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="128" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=128#catalog-listing">128</a>
+---
+<a aria-label="256" class="fk-cb -me-start -fsh0" data-eventaction="hdd_size" data-eventcategory="Filters Apply" data-eventlabel="256" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?hdd_size=256#catalog-listing">256</a>
+---
+<a aria-label="Articles en promotion seulement" class="fk-cb -me-start -fsh0" data-eventaction="special_price" data-eventcategory="Filters Apply" data-eventlabel="1" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?special_price=1#catalog-listing">Articles en promotion seulement</a>
+---
+<a aria-label="AMD" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="AMD" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=AMD#catalog-listing">AMD</a>
+---
+<a aria-label="Exynos" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Exynos" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Exynos#catalog-listing">Exynos</a>
+---
+<a aria-label="Hexa Core" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Hexa Core" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Hexa+Core#catalog-listing">Hexa Core</a>
+---
+<a aria-label="Hisilicon Kirin" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Hisilicon Kirin" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Hisilicon+Kirin#catalog-listing">Hisilicon Kirin</a>
+---
+<a aria-label="MediaTek" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="MediaTek" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=MediaTek#catalog-listing">MediaTek</a>
+---
+<a aria-label="Octa Core" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Octa Core" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Octa+Core#catalog-listing">Octa Core</a>
+---
+<a aria-label="Quad Core" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Quad Core" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Quad+Core#catalog-listing">Quad Core</a>
+---
+<a aria-label="Qualcomm" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Qualcomm" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Qualcomm#catalog-listing">Qualcomm</a>
+---
+<a aria-label="Single Core" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Single Core" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Single+Core#catalog-listing">Single Core</a>
+---
+<a aria-label="Snapdragon" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="Snapdragon" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=Snapdragon#catalog-listing">Snapdragon</a>
+---
+<a aria-label="TSMC" class="fk-cb -me-start -fsh0" data-eventaction="cpu_brand" data-eventcategory="Filters Apply" data-eventlabel="TSMC" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?cpu_brand=TSMC#catalog-listing">TSMC</a>
+---
+<a aria-label="0.00" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="0.00" data-eventname="filters_apply" data-track-onclick="true" data-value="0.00" href="/telephone-tablette/?cpu_speed=0.00#catalog-listing">0.00</a>
+---
+<a aria-label="0.68" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="0.68" data-eventname="filters_apply" data-track-onclick="true" data-value="0.68" href="/telephone-tablette/?cpu_speed=0.68#catalog-listing">0.68</a>
+---
+<a aria-label="1,3" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1,3" data-eventname="filters_apply" data-track-onclick="true" data-value="1,3" href="/telephone-tablette/?cpu_speed=1%2C3#catalog-listing">1,3</a>
+---
+<a aria-label="1,5 ghz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1,5 ghz" data-eventname="filters_apply" data-track-onclick="true" data-value="1,5 ghz" href="/telephone-tablette/?cpu_speed=1%2C5+ghz#catalog-listing">1,5 ghz</a>
+---
+<a aria-label="1,6 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1,6 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="1,6 ghz" href="/telephone-tablette/?cpu_speed=1%2C6+GHz#catalog-listing">1,6 GHz</a>
+---
+<a aria-label="1,8 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1,8 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="1,8 ghz" href="/telephone-tablette/?cpu_speed=1%2C8+GHz#catalog-listing">1,8 GHz</a>
+---
+<a aria-label="1.00" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.00" data-eventname="filters_apply" data-track-onclick="true" data-value="1.00" href="/telephone-tablette/?cpu_speed=1.00#catalog-listing">1.00</a>
+---
+<a aria-label="1.2" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.2" data-eventname="filters_apply" data-track-onclick="true" data-value="1.2" href="/telephone-tablette/?cpu_speed=1.2#catalog-listing">1.2</a>
+---
+<a aria-label="1.3" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.3" data-eventname="filters_apply" data-track-onclick="true" data-value="1.3" href="/telephone-tablette/?cpu_speed=1.3#catalog-listing">1.3</a>
+---
+<a aria-label="1.4" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.4" data-eventname="filters_apply" data-track-onclick="true" data-value="1.4" href="/telephone-tablette/?cpu_speed=1.4#catalog-listing">1.4</a>
+---
+<a aria-label="1.5" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.5" data-eventname="filters_apply" data-track-onclick="true" data-value="1.5" href="/telephone-tablette/?cpu_speed=1.5#catalog-listing">1.5</a>
+---
+<a aria-label="1.6" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.6" data-eventname="filters_apply" data-track-onclick="true" data-value="1.6" href="/telephone-tablette/?cpu_speed=1.6#catalog-listing">1.6</a>
+---
+<a aria-label="1.6ghz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.6ghz" data-eventname="filters_apply" data-track-onclick="true" data-value="1.6ghz" href="/telephone-tablette/?cpu_speed=1.6ghz#catalog-listing">1.6ghz</a>
+---
+<a aria-label="1.8" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.8" data-eventname="filters_apply" data-track-onclick="true" data-value="1.8" href="/telephone-tablette/?cpu_speed=1.8#catalog-listing">1.8</a>
+---
+<a aria-label="1.20" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.20" data-eventname="filters_apply" data-track-onclick="true" data-value="1.20" href="/telephone-tablette/?cpu_speed=1.20#catalog-listing">1.20</a>
+---
+<a aria-label="1.30" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.30" data-eventname="filters_apply" data-track-onclick="true" data-value="1.30" href="/telephone-tablette/?cpu_speed=1.30#catalog-listing">1.30</a>
+---
+<a aria-label="1.40" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.40" data-eventname="filters_apply" data-track-onclick="true" data-value="1.40" href="/telephone-tablette/?cpu_speed=1.40#catalog-listing">1.40</a>
+---
+<a aria-label="1.50" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.50" data-eventname="filters_apply" data-track-onclick="true" data-value="1.50" href="/telephone-tablette/?cpu_speed=1.50#catalog-listing">1.50</a>
+---
+<a aria-label="1.60" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="1.60" data-eventname="filters_apply" data-track-onclick="true" data-value="1.60" href="/telephone-tablette/?cpu_speed=1.60#catalog-listing">1.60</a>
+---
+<a aria-label="2" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2" data-eventname="filters_apply" data-track-onclick="true" data-value="2" href="/telephone-tablette/?cpu_speed=2#catalog-listing">2</a>
+---
+<a aria-label="2 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2 ghz" href="/telephone-tablette/?cpu_speed=2+GHz#catalog-listing">2 GHz</a>
+---
+<a aria-label="2 GHz, 1,8 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2 GHz, 1,8 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2 ghz, 1,8 ghz" href="/telephone-tablette/?cpu_speed=2+GHz%2C+1%2C8+GHz#catalog-listing">2 GHz, 1,8 GHz</a>
+---
+<a aria-label="2,0 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2,0 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2,0 ghz" href="/telephone-tablette/?cpu_speed=2%2C0+GHz#catalog-listing">2,0 GHz</a>
+---
+<a aria-label="2,05" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2,05" data-eventname="filters_apply" data-track-onclick="true" data-value="2,05" href="/telephone-tablette/?cpu_speed=2%2C05#catalog-listing">2,05</a>
+---
+<a aria-label="2,3GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2,3GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2,3ghz" href="/telephone-tablette/?cpu_speed=2%2C3GHz#catalog-listing">2,3GHz</a>
+---
+<a aria-label="2,4 GHz, 2 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2,4 GHz, 2 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2,4 ghz, 2 ghz" href="/telephone-tablette/?cpu_speed=2%2C4+GHz%2C+2+GHz#catalog-listing">2,4 GHz, 2 GHz</a>
+---
+<a aria-label="2,65 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2,65 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2,65 ghz" href="/telephone-tablette/?cpu_speed=2%2C65+GHz#catalog-listing">2,65 GHz</a>
+---
+<a aria-label="2,75 GHz, 2 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2,75 GHz, 2 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2,75 ghz, 2 ghz" href="/telephone-tablette/?cpu_speed=2%2C75+GHz%2C+2+GHz#catalog-listing">2,75 GHz, 2 GHz</a>
+---
+<a aria-label="2.0" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.0" data-eventname="filters_apply" data-track-onclick="true" data-value="2.0" href="/telephone-tablette/?cpu_speed=2.0#catalog-listing">2.0</a>
+---
+<a aria-label="2.0 ghz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.0 ghz" data-eventname="filters_apply" data-track-onclick="true" data-value="2.0 ghz" href="/telephone-tablette/?cpu_speed=2.0+ghz#catalog-listing">2.0 ghz</a>
+---
+<a aria-label="2.0 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.0 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2.0 ghz" href="/telephone-tablette/?cpu_speed=2.0+GHz#catalog-listing">2.0 GHz</a>
+---
+<a aria-label="2.00" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.00" data-eventname="filters_apply" data-track-onclick="true" data-value="2.00" href="/telephone-tablette/?cpu_speed=2.00#catalog-listing">2.00</a>
+---
+<a aria-label="2.2" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.2" data-eventname="filters_apply" data-track-onclick="true" data-value="2.2" href="/telephone-tablette/?cpu_speed=2.2#catalog-listing">2.2</a>
+---
+<a aria-label="2.2GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.2GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2.2ghz" href="/telephone-tablette/?cpu_speed=2.2GHz#catalog-listing">2.2GHz</a>
+---
+<a aria-label="2.2GHz, 2GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.2GHz, 2GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2.2ghz, 2ghz" href="/telephone-tablette/?cpu_speed=2.2GHz%2C+2GHz#catalog-listing">2.2GHz, 2GHz</a>
+---
+<a aria-label="2.2Hz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.2Hz" data-eventname="filters_apply" data-track-onclick="true" data-value="2.2hz" href="/telephone-tablette/?cpu_speed=2.2Hz#catalog-listing">2.2Hz</a>
+---
+<a aria-label="2.3" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.3" data-eventname="filters_apply" data-track-onclick="true" data-value="2.3" href="/telephone-tablette/?cpu_speed=2.3#catalog-listing">2.3</a>
+---
+<a aria-label="2.4" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.4" data-eventname="filters_apply" data-track-onclick="true" data-value="2.4" href="/telephone-tablette/?cpu_speed=2.4#catalog-listing">2.4</a>
+---
+<a aria-label="2.4 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.4 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2.4 ghz" href="/telephone-tablette/?cpu_speed=2.4%C2%A0GHz#catalog-listing">2.4 GHz</a>
+---
+<a aria-label="2.8GHz " class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.8GHz " data-eventname="filters_apply" data-track-onclick="true" data-value="2.8ghz " href="/telephone-tablette/?cpu_speed=2.8GHz+#catalog-listing">2.8GHz </a>
+---
+<a aria-label="2.9GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.9GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2.9ghz" href="/telephone-tablette/?cpu_speed=2.9GHz#catalog-listing">2.9GHz</a>
+---
+<a aria-label="2.10" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.10" data-eventname="filters_apply" data-track-onclick="true" data-value="2.10" href="/telephone-tablette/?cpu_speed=2.10#catalog-listing">2.10</a>
+---
+<a aria-label="2.20" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.20" data-eventname="filters_apply" data-track-onclick="true" data-value="2.20" href="/telephone-tablette/?cpu_speed=2.20#catalog-listing">2.20</a>
+---
+<a aria-label="2.34" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2.34" data-eventname="filters_apply" data-track-onclick="true" data-value="2.34" href="/telephone-tablette/?cpu_speed=2.34#catalog-listing">2.34</a>
+---
+<a aria-label="2GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="2ghz" href="/telephone-tablette/?cpu_speed=2GHz#catalog-listing">2GHz</a>
+---
+<a aria-label="2Hz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2Hz" data-eventname="filters_apply" data-track-onclick="true" data-value="2hz" href="/telephone-tablette/?cpu_speed=2Hz#catalog-listing">2Hz</a>
+---
+<a aria-label="2x2.65 GHz Lightning + 4x1.8" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="2x2.65 GHz Lightning + 4x1.8" data-eventname="filters_apply" data-track-onclick="true" data-value="2x2.65 ghz lightning + 4x1.8" href="/telephone-tablette/?cpu_speed=2x2.65+GHz+Lightning+%2B+4x1.8#catalog-listing">2x2.65 GHz Lightning + 4x1.8</a>
+---
+<a aria-label="3" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3" data-eventname="filters_apply" data-track-onclick="true" data-value="3" href="/telephone-tablette/?cpu_speed=3#catalog-listing">3</a>
+---
+<a aria-label="3,0GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3,0GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="3,0ghz" href="/telephone-tablette/?cpu_speed=3%2C0GHz#catalog-listing">3,0GHz</a>
+---
+<a aria-label="3,8GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3,8GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="3,8ghz" href="/telephone-tablette/?cpu_speed=3%2C8GHz#catalog-listing">3,8GHz</a>
+---
+<a aria-label="3,22 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3,22 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="3,22 ghz" href="/telephone-tablette/?cpu_speed=3%2C22+GHz#catalog-listing">3,22 GHz</a>
+---
+<a aria-label="3,23 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3,23 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="3,23 ghz" href="/telephone-tablette/?cpu_speed=3%2C23+GHz#catalog-listing">3,23 GHz</a>
+---
+<a aria-label="3,46 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3,46 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="3,46 ghz" href="/telephone-tablette/?cpu_speed=3%2C46+GHz#catalog-listing">3,46 GHz</a>
+---
+<a aria-label="3.1 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3.1 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="3.1 ghz" href="/telephone-tablette/?cpu_speed=3.1+GHz#catalog-listing">3.1 GHz</a>
+---
+<a aria-label="3.19" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="3.19" data-eventname="filters_apply" data-track-onclick="true" data-value="3.19" href="/telephone-tablette/?cpu_speed=3.19#catalog-listing">3.19</a>
+---
+<a aria-label="4,04 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="4,04 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="4,04 ghz" href="/telephone-tablette/?cpu_speed=4%2C04+GHz#catalog-listing">4,04 GHz</a>
+---
+<a aria-label="4,05 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="4,05 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="4,05 ghz" href="/telephone-tablette/?cpu_speed=4%2C05+GHz#catalog-listing">4,05 GHz</a>
+---
+<a aria-label="4,4 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="4,4 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="4,4 ghz" href="/telephone-tablette/?cpu_speed=4%2C4+GHz#catalog-listing">4,4 GHz</a>
+---
+<a aria-label="4.00" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="4.00" data-eventname="filters_apply" data-track-onclick="true" data-value="4.00" href="/telephone-tablette/?cpu_speed=4.00#catalog-listing">4.00</a>
+---
+<a aria-label="4x1,8" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="4x1,8" data-eventname="filters_apply" data-track-onclick="true" data-value="4x1,8" href="/telephone-tablette/?cpu_speed=4x1%2C8#catalog-listing">4x1,8</a>
+---
+<a aria-label="4x2.0 GHz Cortex-A55 &amp; 4x2.0 GHz Cortex-A55" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="4x2.0 GHz Cortex-A55 &amp; 4x2.0 GHz Cortex-A55" data-eventname="filters_apply" data-track-onclick="true" data-value="4x2.0 ghz cortex-a55 &amp; 4x2.0 ghz cortex-a55" href="/telephone-tablette/?cpu_speed=4x2.0+GHz+Cortex-A55+%26+4x2.0+GHz+Cortex-A55#catalog-listing">4x2.0 GHz Cortex-A55 &amp; 4x2.0 GHz Cortex-A55</a>
+---
+<a aria-label="4×2.2 GHz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="4×2.2 GHz" data-eventname="filters_apply" data-track-onclick="true" data-value="4×2.2 ghz" href="/telephone-tablette/?cpu_speed=4%C3%972.2+GHz#catalog-listing">4×2.2 GHz</a>
+---
+<a aria-label="6.7" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="6.7" data-eventname="filters_apply" data-track-onclick="true" data-value="6.7" href="/telephone-tablette/?cpu_speed=6.7#catalog-listing">6.7</a>
+---
+<a aria-label="90HZ" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="90HZ" data-eventname="filters_apply" data-track-onclick="true" data-value="90hz" href="/telephone-tablette/?cpu_speed=90HZ#catalog-listing">90HZ</a>
+---
+<a aria-label="Fabricant Mediatek Helio G85 " class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="Fabricant Mediatek Helio G85 " data-eventname="filters_apply" data-track-onclick="true" data-value="fabricant mediatek helio g85 " href="/telephone-tablette/?cpu_speed=Fabricant+Mediatek+Helio+G85+#catalog-listing">Fabricant Mediatek Helio G85 </a>
+---
+<a aria-label="Fabricant Snapdragon 680 4G" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="Fabricant Snapdragon 680 4G" data-eventname="filters_apply" data-track-onclick="true" data-value="fabricant snapdragon 680 4g" href="/telephone-tablette/?cpu_speed=Fabricant+Snapdragon+680+4G#catalog-listing">Fabricant Snapdragon 680 4G</a>
+---
+<a aria-label="MediaTek Helio G36" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="MediaTek Helio G36" data-eventname="filters_apply" data-track-onclick="true" data-value="mediatek helio g36" href="/telephone-tablette/?cpu_speed=MediaTek+Helio+G36#catalog-listing">MediaTek Helio G36</a>
+---
+<a aria-label="Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)" data-eventname="filters_apply" data-track-onclick="true" data-value="octa-core (2x2.4 ghz cortex-a78 &amp; 6x2.0 ghz cortex-a55)" href="/telephone-tablette/?cpu_speed=Octa-core+%282x2.4+GHz+Cortex-A78+%26+6x2.0+GHz+Cortex-A55%29#catalog-listing">Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)</a>
+---
+<a aria-label="Octa-core (4x2,4 GHz Kryo 265 Gold &amp; 4x1,9 GHz Kryo 265 Silver)" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="Octa-core (4x2,4 GHz Kryo 265 Gold &amp; 4x1,9 GHz Kryo 265 Silver)" data-eventname="filters_apply" data-track-onclick="true" data-value="octa-core (4x2,4 ghz kryo 265 gold &amp; 4x1,9 ghz kryo 265 silver)" href="/telephone-tablette/?cpu_speed=Octa-core+%284x2%2C4+GHz+Kryo+265+Gold+%26+4x1%2C9+GHz+Kryo+265+Silver%29#catalog-listing">Octa-core (4x2,4 GHz Kryo 265 Gold &amp; 4x1,9 GHz Kryo 265 Silver)</a>
+---
+<a aria-label="Octa-core (4x2.35 GHz Cortex-A53 &amp; 4x1.8 GHz Cortex-A53)" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="Octa-core (4x2.35 GHz Cortex-A53 &amp; 4x1.8 GHz Cortex-A53)" data-eventname="filters_apply" data-track-onclick="true" data-value="octa-core (4x2.35 ghz cortex-a53 &amp; 4x1.8 ghz cortex-a53)" href="/telephone-tablette/?cpu_speed=Octa-core+%284x2.35+GHz+Cortex-A53+%26+4x1.8+GHz+Cortex-A53%29#catalog-listing">Octa-core (4x2.35 GHz Cortex-A53 &amp; 4x1.8 GHz Cortex-A53)</a>
+---
+<a aria-label="Octa-core T603" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="Octa-core T603" data-eventname="filters_apply" data-track-onclick="true" data-value="octa-core t603" href="/telephone-tablette/?cpu_speed=Octa-core+T603#catalog-listing">Octa-core T603</a>
+---
+<a aria-label="processeur graphique (GPU) 0 Mhz" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="processeur graphique (GPU) 0 Mhz" data-eventname="filters_apply" data-track-onclick="true" data-value="processeur graphique (gpu) 0 mhz" href="/telephone-tablette/?cpu_speed=processeur+graphique+%28GPU%29+0+Mhz#catalog-listing">processeur graphique (GPU) 0 Mhz</a>
+---
+<a aria-label="T615" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="T615" data-eventname="filters_apply" data-track-onclick="true" data-value="t615" href="/telephone-tablette/?cpu_speed=T615#catalog-listing">T615</a>
+---
+<a aria-label="Type de CPU Octa-Core" class="fk-cb -me-start -fsh0" data-eventaction="cpu_speed" data-eventcategory="Filters Apply" data-eventlabel="Type de CPU Octa-Core" data-eventname="filters_apply" data-track-onclick="true" data-value="type de cpu octa-core" href="/telephone-tablette/?cpu_speed=Type+de+CPU+Octa-Core#catalog-listing">Type de CPU Octa-Core</a>
+---
+<a aria-label="0.0" class="fk-cb -me-start -fsh0" data-eventaction="optical_zoom" data-eventcategory="Filters Apply" data-eventlabel="0.0" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?optical_zoom=0.0#catalog-listing">0.0</a>
+---
+<a aria-label="Expédié depuis Maroc" class="fk-cb -me-start -fsh0" data-eventaction="shipped_from" data-eventcategory="Filters Apply" data-eventlabel="country_local" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?shipped_from=country_local#catalog-listing">Expédié depuis Maroc</a>
+---
+<a aria-label="reconditionné" class="fk-cb -me-start -fsh0" data-eventaction="campaign" data-eventcategory="Filters Apply" data-eventlabel="REFU" data-eventname="filters_apply" data-track-onclick="true" href="/telephone-tablette/?campaign=REFU#catalog-listing">reconditionné</a>
+---

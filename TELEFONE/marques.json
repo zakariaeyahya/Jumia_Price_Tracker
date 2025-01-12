@@ -1,0 +1,1412 @@
+{
+    "Seulement Boutiques Officielles.": {
+        "url": "/telephone-tablette/?official_store=1#catalog-listing",
+        "data_value": null,
+        "data_label": "1"
+    },
+    "": {
+        "url": "/telephone-tablette/?shop_premium_services=shop_express#catalog-listing",
+        "data_value": null,
+        "data_label": "shop_express"
+    },
+    "Anker": {
+        "url": "/telephone-tablette/anker/#catalog-listing",
+        "data_value": "anker",
+        "data_label": "7045-anker"
+    },
+    "apokin": {
+        "url": "/telephone-tablette/apokin/#catalog-listing",
+        "data_value": "apokin",
+        "data_label": "135482-apokin"
+    },
+    "Apple": {
+        "url": "/telephone-tablette/apple/#catalog-listing",
+        "data_value": "apple",
+        "data_label": "9-apple"
+    },
+    "Astro Lighting": {
+        "url": "/telephone-tablette/astro-lighting/#catalog-listing",
+        "data_value": "astro lighting",
+        "data_label": "23994-astro-lighting"
+    },
+    "Autre": {
+        "url": "/telephone-tablette/autre/#catalog-listing",
+        "data_value": "autre",
+        "data_label": "24646-autre"
+    },
+    "Awei": {
+        "url": "/telephone-tablette/awei/#catalog-listing",
+        "data_value": "awei",
+        "data_label": "8551-awei"
+    },
+    "Aya": {
+        "url": "/telephone-tablette/aya/#catalog-listing",
+        "data_value": "aya",
+        "data_label": "16876-aya"
+    },
+    "Basesus": {
+        "url": "/telephone-tablette/basesus/#catalog-listing",
+        "data_value": "basesus",
+        "data_label": "26781-basesus"
+    },
+    "Baseus": {
+        "url": "/telephone-tablette/baseus/#catalog-listing",
+        "data_value": "baseus",
+        "data_label": "7167-baseus"
+    },
+    "Blue Spectrum": {
+        "url": "/telephone-tablette/blue-spectrum/#catalog-listing",
+        "data_value": "blue spectrum",
+        "data_label": "30733-blue-spectrum"
+    },
+    "Book Cover": {
+        "url": "/telephone-tablette/book-cover/#catalog-listing",
+        "data_value": "book cover",
+        "data_label": "31545-book-cover"
+    },
+    "Borofone": {
+        "url": "/telephone-tablette/borofone/#catalog-listing",
+        "data_value": "borofone",
+        "data_label": "8565-borofone"
+    },
+    "Cas": {
+        "url": "/telephone-tablette/cas/#catalog-listing",
+        "data_value": "cas",
+        "data_label": "35110-cas"
+    },
+    "Case": {
+        "url": "/telephone-tablette/case/#catalog-listing",
+        "data_value": "case",
+        "data_label": "11872-case"
+    },
+    "Cclamp": {
+        "url": "/telephone-tablette/cclamp/#catalog-listing",
+        "data_value": "cclamp",
+        "data_label": "131576-cclamp"
+    },
+    "Ceramic": {
+        "url": "/telephone-tablette/ceramic/#catalog-listing",
+        "data_value": "ceramic",
+        "data_label": "35947-ceramic"
+    },
+    "Ceramics": {
+        "url": "/telephone-tablette/ceramics/#catalog-listing",
+        "data_value": "ceramics",
+        "data_label": "35951-ceramics"
+    },
+    "Clear View": {
+        "url": "/telephone-tablette/clear-view/#catalog-listing",
+        "data_value": "clear view",
+        "data_label": "12183-clear-view"
+    },
+    "Colmi": {
+        "url": "/telephone-tablette/colmi/#catalog-listing",
+        "data_value": "colmi",
+        "data_label": "39299-colmi"
+    },
+    "Corn": {
+        "url": "/telephone-tablette/corn/#catalog-listing",
+        "data_value": "corn",
+        "data_label": "40315-corn"
+    },
+    "Cover": {
+        "url": "/telephone-tablette/cover/#catalog-listing",
+        "data_value": "cover",
+        "data_label": "40734-cover"
+    },
+    "Decorative": {
+        "url": "/telephone-tablette/decorative/#catalog-listing",
+        "data_value": "decorative",
+        "data_label": "43578-decorative"
+    },
+    "Deep Bass": {
+        "url": "/telephone-tablette/deep-bass/#catalog-listing",
+        "data_value": "deep bass",
+        "data_label": "43646-deep-bass"
+    },
+    "Digitplus": {
+        "url": "/telephone-tablette/digitplus/#catalog-listing",
+        "data_value": "digitplus",
+        "data_label": "6825-digitplus"
+    },
+    "DINEX": {
+        "url": "/telephone-tablette/dinex/#catalog-listing",
+        "data_value": "dinex",
+        "data_label": "132441-dinex"
+    },
+    "DUNSPIN": {
+        "url": "/telephone-tablette/dunspin/#catalog-listing",
+        "data_value": "dunspin",
+        "data_label": "137917-dunspin"
+    },
+    "Energy Sistem": {
+        "url": "/telephone-tablette/energy-sistem/#catalog-listing",
+        "data_value": "energy sistem",
+        "data_label": "447-energy-sistem"
+    },
+    "Essager": {
+        "url": "/telephone-tablette/essager/#catalog-listing",
+        "data_value": "essager",
+        "data_label": "16675-essager"
+    },
+    "Fashion Case": {
+        "url": "/telephone-tablette/fashion-case/#catalog-listing",
+        "data_value": "fashion case",
+        "data_label": "4436-fashion-case"
+    },
+    "Foneng": {
+        "url": "/telephone-tablette/foneng/#catalog-listing",
+        "data_value": "foneng",
+        "data_label": "132462-foneng"
+    },
+    "General": {
+        "url": "/telephone-tablette/general/#catalog-listing",
+        "data_value": "general",
+        "data_label": "4570-general"
+    },
+    "Generic": {
+        "url": "/telephone-tablette/generic/#catalog-listing",
+        "data_value": "generic",
+        "data_label": "8232-generic"
+    },
+    "Glass": {
+        "url": "/telephone-tablette/glass/#catalog-listing",
+        "data_value": "glass",
+        "data_label": "58833-glass"
+    },
+    "Goui": {
+        "url": "/telephone-tablette/goui/#catalog-listing",
+        "data_value": "goui",
+        "data_label": "60159-goui"
+    },
+    "Haylou": {
+        "url": "/telephone-tablette/haylou/#catalog-listing",
+        "data_value": "haylou",
+        "data_label": "63171-haylou"
+    },
+    "Hoco": {
+        "url": "/telephone-tablette/hoco/#catalog-listing",
+        "data_value": "hoco",
+        "data_label": "6471-hoco"
+    },
+    "Honor": {
+        "url": "/telephone-tablette/honor/#catalog-listing",
+        "data_value": "honor",
+        "data_label": "4676-honor"
+    },
+    "Huawei": {
+        "url": "/telephone-tablette/huawei/#catalog-listing",
+        "data_value": "huawei",
+        "data_label": "830-huawei"
+    },
+    "iboga": {
+        "url": "/telephone-tablette/iboga/#catalog-listing",
+        "data_value": "iboga",
+        "data_label": "133835-iboga"
+    },
+    "Infinix": {
+        "url": "/telephone-tablette/infinix/#catalog-listing",
+        "data_value": "infinix",
+        "data_label": "4339-infinix"
+    },
+    "Ipega": {
+        "url": "/telephone-tablette/ipega/#catalog-listing",
+        "data_value": "ipega",
+        "data_label": "3849-ipega"
+    },
+    "Itel": {
+        "url": "/telephone-tablette/itel/#catalog-listing",
+        "data_value": "itel",
+        "data_label": "6879-itel"
+    },
+    "JBL": {
+        "url": "/telephone-tablette/jbl/#catalog-listing",
+        "data_value": "jbl",
+        "data_label": "452-jbl"
+    },
+    "Joko": {
+        "url": "/telephone-tablette/joko/#catalog-listing",
+        "data_value": "joko",
+        "data_label": "137767-joko"
+    },
+    "Kakusiga": {
+        "url": "/telephone-tablette/kakusiga/#catalog-listing",
+        "data_value": "kakusiga",
+        "data_label": "73318-kakusiga"
+    },
+    "Kieslect": {
+        "url": "/telephone-tablette/kieslect/#catalog-listing",
+        "data_value": "kieslect",
+        "data_label": "135914-kieslect"
+    },
+    "Kingston": {
+        "url": "/telephone-tablette/kingston/#catalog-listing",
+        "data_value": "kingston",
+        "data_label": "1119-kingston"
+    },
+    "Konfulon": {
+        "url": "/telephone-tablette/konfulon/#catalog-listing",
+        "data_value": "konfulon",
+        "data_label": "5505-konfulon"
+    },
+    "Koocu": {
+        "url": "/telephone-tablette/koocu/#catalog-listing",
+        "data_value": "koocu",
+        "data_label": "12562-koocu"
+    },
+    "Ldnio": {
+        "url": "/telephone-tablette/ldnio/#catalog-listing",
+        "data_value": "ldnio",
+        "data_label": "5336-ldnio"
+    },
+    "Lenovo": {
+        "url": "/telephone-tablette/lenovo/#catalog-listing",
+        "data_value": "lenovo",
+        "data_label": "18-lenovo"
+    },
+    "Logicom": {
+        "url": "/telephone-tablette/logicom/#catalog-listing",
+        "data_value": "logicom",
+        "data_label": "1430-logicom"
+    },
+    "M10": {
+        "url": "/telephone-tablette/brand-m10/#catalog-listing",
+        "data_value": "m10",
+        "data_label": "136344-brand-m10"
+    },
+    "Mibro": {
+        "url": "/telephone-tablette/mibro/#catalog-listing",
+        "data_value": "mibro",
+        "data_label": "134994-mibro"
+    },
+    "Moi": {
+        "url": "/telephone-tablette/moi/#catalog-listing",
+        "data_value": "moi",
+        "data_label": "91152-moi"
+    },
+    "Motorola": {
+        "url": "/telephone-tablette/motorola/#catalog-listing",
+        "data_value": "motorola",
+        "data_label": "215-motorola"
+    },
+    "Moxom": {
+        "url": "/telephone-tablette/moxom/#catalog-listing",
+        "data_value": "moxom",
+        "data_label": "7243-moxom"
+    },
+    "Naruto": {
+        "url": "/telephone-tablette/naruto/#catalog-listing",
+        "data_value": "naruto",
+        "data_label": "94394-naruto"
+    },
+    "Nia": {
+        "url": "/telephone-tablette/nia/#catalog-listing",
+        "data_value": "nia",
+        "data_label": "3264-nia"
+    },
+    "Nokia": {
+        "url": "/telephone-tablette/nokia/#catalog-listing",
+        "data_value": "nokia",
+        "data_label": "228-nokia"
+    },
+    "Oppo": {
+        "url": "/telephone-tablette/oppo/#catalog-listing",
+        "data_value": "oppo",
+        "data_label": "4168-oppo"
+    },
+    "Oraimo": {
+        "url": "/telephone-tablette/oraimo/#catalog-listing",
+        "data_value": "oraimo",
+        "data_label": "12080-oraimo"
+    },
+    "Other": {
+        "url": "/telephone-tablette/no-brand/#catalog-listing",
+        "data_value": "other",
+        "data_label": "5965-no-brand"
+    },
+    "P9": {
+        "url": "/telephone-tablette/p9/#catalog-listing",
+        "data_value": "p9",
+        "data_label": "136854-p9"
+    },
+    "Panasonic": {
+        "url": "/telephone-tablette/panasonic/#catalog-listing",
+        "data_value": "panasonic",
+        "data_label": "240-panasonic"
+    },
+    "Philips": {
+        "url": "/telephone-tablette/philips/#catalog-listing",
+        "data_value": "philips",
+        "data_label": "1046-philips"
+    },
+    "Plustar": {
+        "url": "/telephone-tablette/plustar/#catalog-listing",
+        "data_value": "plustar",
+        "data_label": "10766-plustar"
+    },
+    "Puloka": {
+        "url": "/telephone-tablette/puloka/#catalog-listing",
+        "data_value": "puloka",
+        "data_label": "9143-puloka"
+    },
+    "QUIVANA": {
+        "url": "/telephone-tablette/quivana/#catalog-listing",
+        "data_value": "quivana",
+        "data_label": "135048-quivana"
+    },
+    "Realfit": {
+        "url": "/telephone-tablette/realfit/#catalog-listing",
+        "data_value": "realfit",
+        "data_label": "138554-realfit"
+    },
+    "realme": {
+        "url": "/telephone-tablette/realme/#catalog-listing",
+        "data_value": "realme",
+        "data_label": "108238-realme"
+    },
+    "Remax": {
+        "url": "/telephone-tablette/remax/#catalog-listing",
+        "data_value": "remax",
+        "data_label": "3238-remax"
+    },
+    "Revoox": {
+        "url": "/telephone-tablette/revoox/#catalog-listing",
+        "data_value": "revoox",
+        "data_label": "134782-revoox"
+    },
+    "Riversong": {
+        "url": "/telephone-tablette/riversong/#catalog-listing",
+        "data_value": "riversong",
+        "data_label": "109732-riversong"
+    },
+    "Rock Space": {
+        "url": "/telephone-tablette/rock-space/#catalog-listing",
+        "data_value": "rock space",
+        "data_label": "110221-rock-space"
+    },
+    "ROCOREN": {
+        "url": "/telephone-tablette/rocoren/#catalog-listing",
+        "data_value": "rocoren",
+        "data_label": "137484-rocoren"
+    },
+    "Royal": {
+        "url": "/telephone-tablette/royal/#catalog-listing",
+        "data_value": "royal",
+        "data_label": "2663-royal"
+    },
+    "Samsung": {
+        "url": "/telephone-tablette/samsung/#catalog-listing",
+        "data_value": "samsung",
+        "data_label": "24-samsung"
+    },
+    "Sandisk": {
+        "url": "/telephone-tablette/sandisk/#catalog-listing",
+        "data_value": "sandisk",
+        "data_label": "277-sandisk"
+    },
+    "Shtel": {
+        "url": "/telephone-tablette/brand-shtel/#catalog-listing",
+        "data_value": "shtel",
+        "data_label": "136376-brand-shtel"
+    },
+    "Smart 2030": {
+        "url": "/telephone-tablette/smart-2030/#catalog-listing",
+        "data_value": "smart 2030",
+        "data_label": "116279-smart-2030"
+    },
+    "Smart Bracelet": {
+        "url": "/telephone-tablette/smart-bracelet/#catalog-listing",
+        "data_value": "smart bracelet",
+        "data_label": "116293-smart-bracelet"
+    },
+    "Smart Watch": {
+        "url": "/telephone-tablette/smart-watch/#catalog-listing",
+        "data_value": "smart watch",
+        "data_label": "116404-smart-watch"
+    },
+    "Smartwatch": {
+        "url": "/telephone-tablette/smartwatch/#catalog-listing",
+        "data_value": "smartwatch",
+        "data_label": "116405-smartwatch"
+    },
+    "Sony": {
+        "url": "/telephone-tablette/sony/#catalog-listing",
+        "data_value": "sony",
+        "data_label": "298-sony"
+    },
+    "Spigen": {
+        "url": "/telephone-tablette/spigen/#catalog-listing",
+        "data_value": "spigen",
+        "data_label": "5753-spigen"
+    },
+    "T'nB": {
+        "url": "/telephone-tablette/t-nb/#catalog-listing",
+        "data_value": "t'nb",
+        "data_label": "9558-t-nb"
+    },
+    "Tecno": {
+        "url": "/telephone-tablette/tecno/#catalog-listing",
+        "data_value": "tecno",
+        "data_label": "6679-tecno"
+    },
+    "Telefunken": {
+        "url": "/telephone-tablette/telefunken/#catalog-listing",
+        "data_value": "telefunken",
+        "data_label": "7492-telefunken"
+    },
+    "TENGOO": {
+        "url": "/telephone-tablette/tengoo/#catalog-listing",
+        "data_value": "tengoo",
+        "data_label": "132910-tengoo"
+    },
+    "Toocki": {
+        "url": "/telephone-tablette/toocki/#catalog-listing",
+        "data_value": "toocki",
+        "data_label": "137637-toocki"
+    },
+    "tripod": {
+        "url": "/telephone-tablette/tripod/#catalog-listing",
+        "data_value": "tripod",
+        "data_label": "10216-tripod"
+    },
+    "TWS": {
+        "url": "/telephone-tablette/tws/#catalog-listing",
+        "data_value": "tws",
+        "data_label": "11500-tws"
+    },
+    "VARTA": {
+        "url": "/telephone-tablette/varta/#catalog-listing",
+        "data_value": "varta",
+        "data_label": "2803-varta"
+    },
+    "Vidvie": {
+        "url": "/telephone-tablette/vidvie/#catalog-listing",
+        "data_value": "vidvie",
+        "data_label": "6651-vidvie"
+    },
+    "VR Box": {
+        "url": "/telephone-tablette/vr-box-brand/#catalog-listing",
+        "data_value": "vr box",
+        "data_label": "8945-vr-box-brand"
+    },
+    "XIAOMI": {
+        "url": "/telephone-tablette/xiaomi/#catalog-listing",
+        "data_value": "xiaomi",
+        "data_label": "4737-xiaomi"
+    },
+    "XO": {
+        "url": "/telephone-tablette/xo/#catalog-listing",
+        "data_value": "xo",
+        "data_label": "5924-xo"
+    },
+    "Zeblaze": {
+        "url": "/telephone-tablette/zeblaze/#catalog-listing",
+        "data_value": "zeblaze",
+        "data_label": "8974-zeblaze"
+    },
+    "ZTE": {
+        "url": "/telephone-tablette/zte/#catalog-listing",
+        "data_value": "zte",
+        "data_label": "1424-zte"
+    },
+    "American Beauty": {
+        "url": "/telephone-tablette/?color_family=American+Beauty#catalog-listing",
+        "data_value": "american beauty",
+        "data_label": "American Beauty"
+    },
+    "Animal Prints": {
+        "url": "/telephone-tablette/?color_family=Animal+Prints#catalog-listing",
+        "data_value": "animal prints",
+        "data_label": "Animal Prints"
+    },
+    "Beige": {
+        "url": "/telephone-tablette/?color_family=Beige#catalog-listing",
+        "data_value": "beige",
+        "data_label": "Beige"
+    },
+    "Black/Gold": {
+        "url": "/telephone-tablette/?color_family=Black%2FGold#catalog-listing",
+        "data_value": "black/gold",
+        "data_label": "Black/Gold"
+    },
+    "Black/Pink": {
+        "url": "/telephone-tablette/?color_family=Black%2FPink#catalog-listing",
+        "data_value": "black/pink",
+        "data_label": "Black/Pink"
+    },
+    "Black Night": {
+        "url": "/telephone-tablette/?color_family=Black+Night#catalog-listing",
+        "data_value": "black night",
+        "data_label": "Black Night"
+    },
+    "Blue Sky": {
+        "url": "/telephone-tablette/?color_family=Blue+Sky#catalog-listing",
+        "data_value": "blue sky",
+        "data_label": "Blue Sky"
+    },
+    "Brick": {
+        "url": "/telephone-tablette/?color_family=Brick#catalog-listing",
+        "data_value": "brick",
+        "data_label": "Brick"
+    },
+    "Bronze": {
+        "url": "/telephone-tablette/?color_family=Bronze#catalog-listing",
+        "data_value": "bronze",
+        "data_label": "Bronze"
+    },
+    "Burgundy": {
+        "url": "/telephone-tablette/?color_family=Burgundy#catalog-listing",
+        "data_value": "burgundy",
+        "data_label": "Burgundy"
+    },
+    "Copper": {
+        "url": "/telephone-tablette/?color_family=Copper#catalog-listing",
+        "data_value": "copper",
+        "data_label": "Copper"
+    },
+    "Cyan": {
+        "url": "/telephone-tablette/?color_family=Cyan#catalog-listing",
+        "data_value": "cyan",
+        "data_label": "Cyan"
+    },
+    "Dark Brown": {
+        "url": "/telephone-tablette/?color_family=Dark+Brown#catalog-listing",
+        "data_value": "dark brown",
+        "data_label": "Dark Brown"
+    },
+    "Dark Green": {
+        "url": "/telephone-tablette/?color_family=Dark+Green#catalog-listing",
+        "data_value": "dark green",
+        "data_label": "Dark Green"
+    },
+    "Dark Mauve": {
+        "url": "/telephone-tablette/?color_family=Dark+Mauve#catalog-listing",
+        "data_value": "dark mauve",
+        "data_label": "Dark Mauve"
+    },
+    "Greyish Blue": {
+        "url": "/telephone-tablette/?color_family=Greyish+Blue#catalog-listing",
+        "data_value": "greyish blue",
+        "data_label": "Greyish Blue"
+    },
+    "Iron": {
+        "url": "/telephone-tablette/?color_family=Iron#catalog-listing",
+        "data_value": "iron",
+        "data_label": "Iron"
+    },
+    "Ivory": {
+        "url": "/telephone-tablette/?color_family=Ivory#catalog-listing",
+        "data_value": "ivory",
+        "data_label": "Ivory"
+    },
+    "Lime Green": {
+        "url": "/telephone-tablette/?color_family=Lime+Green#catalog-listing",
+        "data_value": "lime green",
+        "data_label": "Lime Green"
+    },
+    "Matte Black": {
+        "url": "/telephone-tablette/?color_family=Matte+Black#catalog-listing",
+        "data_value": "matte black",
+        "data_label": "Matte Black"
+    },
+    "Metallic Blue": {
+        "url": "/telephone-tablette/?color_family=Metallic+Blue#catalog-listing",
+        "data_value": "metallic blue",
+        "data_label": "Metallic Blue"
+    },
+    "Off-White": {
+        "url": "/telephone-tablette/?color_family=Off-White#catalog-listing",
+        "data_value": "off-white",
+        "data_label": "Off-White"
+    },
+    "Orange": {
+        "url": "/telephone-tablette/?color_family=Orange#catalog-listing",
+        "data_value": "orange",
+        "data_label": "Orange"
+    },
+    "Pink Glam": {
+        "url": "/telephone-tablette/?color_family=Pink+Glam#catalog-listing",
+        "data_value": "pink glam",
+        "data_label": "Pink Glam"
+    },
+    "Purple": {
+        "url": "/telephone-tablette/?color_family=Purple#catalog-listing",
+        "data_value": "purple",
+        "data_label": "Purple"
+    },
+    "Rose Gold": {
+        "url": "/telephone-tablette/?color_family=Rose+Gold#catalog-listing",
+        "data_value": "rose gold",
+        "data_label": "Rose Gold"
+    },
+    "Silver Dots": {
+        "url": "/telephone-tablette/?color_family=Silver+Dots#catalog-listing",
+        "data_value": "silver dots",
+        "data_label": "Silver Dots"
+    },
+    "Soft Black": {
+        "url": "/telephone-tablette/?color_family=Soft+Black#catalog-listing",
+        "data_value": "soft black",
+        "data_label": "Soft Black"
+    },
+    "Taupe": {
+        "url": "/telephone-tablette/?color_family=Taupe#catalog-listing",
+        "data_value": "taupe",
+        "data_label": "Taupe"
+    },
+    "Turquoise": {
+        "url": "/telephone-tablette/?color_family=Turquoise#catalog-listing",
+        "data_value": "turquoise",
+        "data_label": "Turquoise"
+    },
+    "Turquoise Green": {
+        "url": "/telephone-tablette/?color_family=Turquoise+Green#catalog-listing",
+        "data_value": "turquoise green",
+        "data_label": "Turquoise Green"
+    },
+    "Vibrant Green": {
+        "url": "/telephone-tablette/?color_family=Vibrant+Green#catalog-listing",
+        "data_value": "vibrant green",
+        "data_label": "Vibrant Green"
+    },
+    "Wood": {
+        "url": "/telephone-tablette/?color_family=Wood#catalog-listing",
+        "data_value": "wood",
+        "data_label": "Wood"
+    },
+    "1.1": {
+        "url": "/telephone-tablette/?screen_size=1.1#catalog-listing",
+        "data_value": null,
+        "data_label": "1.1"
+    },
+    "1.6": {
+        "url": "/telephone-tablette/?cpu_speed=1.6#catalog-listing",
+        "data_value": "1.6",
+        "data_label": "1.6"
+    },
+    "4.5": {
+        "url": "/telephone-tablette/?screen_size=4.5#catalog-listing",
+        "data_value": null,
+        "data_label": "4.5"
+    },
+    "6": {
+        "url": "/telephone-tablette/?system_memory=6#catalog-listing",
+        "data_value": null,
+        "data_label": "6"
+    },
+    "6.1": {
+        "url": "/telephone-tablette/?screen_size=6.1#catalog-listing",
+        "data_value": null,
+        "data_label": "6.1"
+    },
+    "6.3": {
+        "url": "/telephone-tablette/?screen_size=6.3#catalog-listing",
+        "data_value": null,
+        "data_label": "6.3"
+    },
+    "6.5": {
+        "url": "/telephone-tablette/?screen_size=6.5#catalog-listing",
+        "data_value": null,
+        "data_label": "6.5"
+    },
+    "6.6": {
+        "url": "/telephone-tablette/?screen_size=6.6#catalog-listing",
+        "data_value": null,
+        "data_label": "6.6"
+    },
+    "6.7": {
+        "url": "/telephone-tablette/?cpu_speed=6.7#catalog-listing",
+        "data_value": "6.7",
+        "data_label": "6.7"
+    },
+    "6.8": {
+        "url": "/telephone-tablette/?screen_size=6.8#catalog-listing",
+        "data_value": null,
+        "data_label": "6.8"
+    },
+    "6.9": {
+        "url": "/telephone-tablette/?screen_size=6.9#catalog-listing",
+        "data_value": null,
+        "data_label": "6.9"
+    },
+    "7": {
+        "url": "/telephone-tablette/?screen_size=7#catalog-listing",
+        "data_value": null,
+        "data_label": "7"
+    },
+    "10": {
+        "url": "/telephone-tablette/?screen_size=10#catalog-listing",
+        "data_value": null,
+        "data_label": "10"
+    },
+    "10.1": {
+        "url": "/telephone-tablette/?screen_size=10.1#catalog-listing",
+        "data_value": null,
+        "data_label": "10.1"
+    },
+    "10.9": {
+        "url": "/telephone-tablette/?screen_size=10.9#catalog-listing",
+        "data_value": null,
+        "data_label": "10.9"
+    },
+    "12.9": {
+        "url": "/telephone-tablette/?screen_size=12.9#catalog-listing",
+        "data_value": null,
+        "data_label": "12.9"
+    },
+    "13.5": {
+        "url": "/telephone-tablette/?screen_size=13.5#catalog-listing",
+        "data_value": null,
+        "data_label": "13.5"
+    },
+    "Android": {
+        "url": "/telephone-tablette/?operating_system=Android#catalog-listing",
+        "data_value": null,
+        "data_label": "Android"
+    },
+    "Android 4.4": {
+        "url": "/telephone-tablette/?operating_system=Android+4.4#catalog-listing",
+        "data_value": null,
+        "data_label": "Android 4.4"
+    },
+    "Android 5.1": {
+        "url": "/telephone-tablette/?operating_system=Android+5.1#catalog-listing",
+        "data_value": null,
+        "data_label": "Android 5.1"
+    },
+    "Android 6.0": {
+        "url": "/telephone-tablette/?operating_system=Android+6.0#catalog-listing",
+        "data_value": null,
+        "data_label": "Android 6.0"
+    },
+    "iOS": {
+        "url": "/telephone-tablette/?operating_system=iOS#catalog-listing",
+        "data_value": null,
+        "data_label": "iOS"
+    },
+    "Sans OS": {
+        "url": "/telephone-tablette/?operating_system=Sans+OS#catalog-listing",
+        "data_value": null,
+        "data_label": "Sans OS"
+    },
+    "Windows": {
+        "url": "/telephone-tablette/?operating_system=Windows#catalog-listing",
+        "data_value": null,
+        "data_label": "Windows"
+    },
+    "0.0": {
+        "url": "/telephone-tablette/?optical_zoom=0.0#catalog-listing",
+        "data_value": null,
+        "data_label": "0.0"
+    },
+    "0.3": {
+        "url": "/telephone-tablette/?megapixels=0.3#catalog-listing",
+        "data_value": "0.3",
+        "data_label": "0.3"
+    },
+    "2": {
+        "url": "/telephone-tablette/?cpu_speed=2#catalog-listing",
+        "data_value": "2",
+        "data_label": "2"
+    },
+    "2.0": {
+        "url": "/telephone-tablette/?cpu_speed=2.0#catalog-listing",
+        "data_value": "2.0",
+        "data_label": "2.0"
+    },
+    "5": {
+        "url": "/telephone-tablette/?megapixels=5#catalog-listing",
+        "data_value": "5",
+        "data_label": "5"
+    },
+    "5.0": {
+        "url": "/telephone-tablette/?megapixels=5.0#catalog-listing",
+        "data_value": "5.0",
+        "data_label": "5.0"
+    },
+    "8": {
+        "url": "/telephone-tablette/?hdd_size=8#catalog-listing",
+        "data_value": null,
+        "data_label": "8"
+    },
+    "8.0": {
+        "url": "/telephone-tablette/?megapixels=8.0#catalog-listing",
+        "data_value": "8.0",
+        "data_label": "8.0"
+    },
+    "12": {
+        "url": "/telephone-tablette/?megapixels=12#catalog-listing",
+        "data_value": "12",
+        "data_label": "12"
+    },
+    "12.0": {
+        "url": "/telephone-tablette/?megapixels=12.0#catalog-listing",
+        "data_value": "12.0",
+        "data_label": "12.0"
+    },
+    "13": {
+        "url": "/telephone-tablette/?megapixels=13#catalog-listing",
+        "data_value": "13",
+        "data_label": "13"
+    },
+    "13.0": {
+        "url": "/telephone-tablette/?megapixels=13.0#catalog-listing",
+        "data_value": "13.0",
+        "data_label": "13.0"
+    },
+    "14": {
+        "url": "/telephone-tablette/?megapixels=14#catalog-listing",
+        "data_value": "14",
+        "data_label": "14"
+    },
+    "16": {
+        "url": "/telephone-tablette/?hdd_size=16#catalog-listing",
+        "data_value": null,
+        "data_label": "16"
+    },
+    "16.0": {
+        "url": "/telephone-tablette/?megapixels=16.0#catalog-listing",
+        "data_value": "16.0",
+        "data_label": "16.0"
+    },
+    "18": {
+        "url": "/telephone-tablette/?megapixels=18#catalog-listing",
+        "data_value": "18",
+        "data_label": "18"
+    },
+    "20": {
+        "url": "/telephone-tablette/?megapixels=20#catalog-listing",
+        "data_value": "20",
+        "data_label": "20"
+    },
+    "24.0": {
+        "url": "/telephone-tablette/?megapixels=24.0#catalog-listing",
+        "data_value": "24.0",
+        "data_label": "24.0"
+    },
+    "25.0": {
+        "url": "/telephone-tablette/?megapixels=25.0#catalog-listing",
+        "data_value": "25.0",
+        "data_label": "25.0"
+    },
+    "32": {
+        "url": "/telephone-tablette/?hdd_size=32#catalog-listing",
+        "data_value": null,
+        "data_label": "32"
+    },
+    "32.0": {
+        "url": "/telephone-tablette/?megapixels=32.0#catalog-listing",
+        "data_value": "32.0",
+        "data_label": "32.0"
+    },
+    "48": {
+        "url": "/telephone-tablette/?megapixels=48#catalog-listing",
+        "data_value": "48",
+        "data_label": "48"
+    },
+    "50": {
+        "url": "/telephone-tablette/?megapixels=50#catalog-listing",
+        "data_value": "50",
+        "data_label": "50"
+    },
+    "108": {
+        "url": "/telephone-tablette/?megapixels=108#catalog-listing",
+        "data_value": "108",
+        "data_label": "108"
+    },
+    "512.0": {
+        "url": "/telephone-tablette/?megapixels=512.0#catalog-listing",
+        "data_value": "512.0",
+        "data_label": "512.0"
+    },
+    "0.00": {
+        "url": "/telephone-tablette/?cpu_speed=0.00#catalog-listing",
+        "data_value": "0.00",
+        "data_label": "0.00"
+    },
+    "0.32": {
+        "url": "/telephone-tablette/?system_memory=0.32#catalog-listing",
+        "data_value": null,
+        "data_label": "0.32"
+    },
+    "1.00": {
+        "url": "/telephone-tablette/?cpu_speed=1.00#catalog-listing",
+        "data_value": "1.00",
+        "data_label": "1.00"
+    },
+    "1.50": {
+        "url": "/telephone-tablette/?cpu_speed=1.50#catalog-listing",
+        "data_value": "1.50",
+        "data_label": "1.50"
+    },
+    "2.00": {
+        "url": "/telephone-tablette/?cpu_speed=2.00#catalog-listing",
+        "data_value": "2.00",
+        "data_label": "2.00"
+    },
+    "3.00": {
+        "url": "/telephone-tablette/?system_memory=3.00#catalog-listing",
+        "data_value": null,
+        "data_label": "3.00"
+    },
+    "4.00": {
+        "url": "/telephone-tablette/?cpu_speed=4.00#catalog-listing",
+        "data_value": "4.00",
+        "data_label": "4.00"
+    },
+    "6.00": {
+        "url": "/telephone-tablette/?system_memory=6.00#catalog-listing",
+        "data_value": null,
+        "data_label": "6.00"
+    },
+    "8.00": {
+        "url": "/telephone-tablette/?system_memory=8.00#catalog-listing",
+        "data_value": null,
+        "data_label": "8.00"
+    },
+    "32GB": {
+        "url": "/telephone-tablette/?system_memory=32GB#catalog-listing",
+        "data_value": null,
+        "data_label": "32GB"
+    },
+    "64GB": {
+        "url": "/telephone-tablette/?system_memory=64GB#catalog-listing",
+        "data_value": null,
+        "data_label": "64GB"
+    },
+    "128GB": {
+        "url": "/telephone-tablette/?system_memory=128GB#catalog-listing",
+        "data_value": null,
+        "data_label": "128GB"
+    },
+    "128MB": {
+        "url": "/telephone-tablette/?system_memory=128MB#catalog-listing",
+        "data_value": null,
+        "data_label": "128MB"
+    },
+    "0": {
+        "url": "/telephone-tablette/?hdd_size=0#catalog-listing",
+        "data_value": null,
+        "data_label": "0"
+    },
+    "1": {
+        "url": "/telephone-tablette/?hdd_size=1#catalog-listing",
+        "data_value": null,
+        "data_label": "1"
+    },
+    "4": {
+        "url": "/telephone-tablette/?hdd_size=4#catalog-listing",
+        "data_value": null,
+        "data_label": "4"
+    },
+    "64": {
+        "url": "/telephone-tablette/?hdd_size=64#catalog-listing",
+        "data_value": null,
+        "data_label": "64"
+    },
+    "128": {
+        "url": "/telephone-tablette/?hdd_size=128#catalog-listing",
+        "data_value": null,
+        "data_label": "128"
+    },
+    "256": {
+        "url": "/telephone-tablette/?hdd_size=256#catalog-listing",
+        "data_value": null,
+        "data_label": "256"
+    },
+    "Articles en promotion seulement": {
+        "url": "/telephone-tablette/?special_price=1#catalog-listing",
+        "data_value": null,
+        "data_label": "1"
+    },
+    "AMD": {
+        "url": "/telephone-tablette/?cpu_brand=AMD#catalog-listing",
+        "data_value": null,
+        "data_label": "AMD"
+    },
+    "Exynos": {
+        "url": "/telephone-tablette/?cpu_brand=Exynos#catalog-listing",
+        "data_value": null,
+        "data_label": "Exynos"
+    },
+    "Hexa Core": {
+        "url": "/telephone-tablette/?cpu_brand=Hexa+Core#catalog-listing",
+        "data_value": null,
+        "data_label": "Hexa Core"
+    },
+    "Hisilicon Kirin": {
+        "url": "/telephone-tablette/?cpu_brand=Hisilicon+Kirin#catalog-listing",
+        "data_value": null,
+        "data_label": "Hisilicon Kirin"
+    },
+    "MediaTek": {
+        "url": "/telephone-tablette/?cpu_brand=MediaTek#catalog-listing",
+        "data_value": null,
+        "data_label": "MediaTek"
+    },
+    "Octa Core": {
+        "url": "/telephone-tablette/?cpu_brand=Octa+Core#catalog-listing",
+        "data_value": null,
+        "data_label": "Octa Core"
+    },
+    "Quad Core": {
+        "url": "/telephone-tablette/?cpu_brand=Quad+Core#catalog-listing",
+        "data_value": null,
+        "data_label": "Quad Core"
+    },
+    "Qualcomm": {
+        "url": "/telephone-tablette/?cpu_brand=Qualcomm#catalog-listing",
+        "data_value": null,
+        "data_label": "Qualcomm"
+    },
+    "Single Core": {
+        "url": "/telephone-tablette/?cpu_brand=Single+Core#catalog-listing",
+        "data_value": null,
+        "data_label": "Single Core"
+    },
+    "Snapdragon": {
+        "url": "/telephone-tablette/?cpu_brand=Snapdragon#catalog-listing",
+        "data_value": null,
+        "data_label": "Snapdragon"
+    },
+    "TSMC": {
+        "url": "/telephone-tablette/?cpu_brand=TSMC#catalog-listing",
+        "data_value": null,
+        "data_label": "TSMC"
+    },
+    "0.68": {
+        "url": "/telephone-tablette/?cpu_speed=0.68#catalog-listing",
+        "data_value": "0.68",
+        "data_label": "0.68"
+    },
+    "1,3": {
+        "url": "/telephone-tablette/?cpu_speed=1%2C3#catalog-listing",
+        "data_value": "1,3",
+        "data_label": "1,3"
+    },
+    "1,5 ghz": {
+        "url": "/telephone-tablette/?cpu_speed=1%2C5+ghz#catalog-listing",
+        "data_value": "1,5 ghz",
+        "data_label": "1,5 ghz"
+    },
+    "1,6 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=1%2C6+GHz#catalog-listing",
+        "data_value": "1,6 ghz",
+        "data_label": "1,6 GHz"
+    },
+    "1,8 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=1%2C8+GHz#catalog-listing",
+        "data_value": "1,8 ghz",
+        "data_label": "1,8 GHz"
+    },
+    "1.2": {
+        "url": "/telephone-tablette/?cpu_speed=1.2#catalog-listing",
+        "data_value": "1.2",
+        "data_label": "1.2"
+    },
+    "1.3": {
+        "url": "/telephone-tablette/?cpu_speed=1.3#catalog-listing",
+        "data_value": "1.3",
+        "data_label": "1.3"
+    },
+    "1.4": {
+        "url": "/telephone-tablette/?cpu_speed=1.4#catalog-listing",
+        "data_value": "1.4",
+        "data_label": "1.4"
+    },
+    "1.5": {
+        "url": "/telephone-tablette/?cpu_speed=1.5#catalog-listing",
+        "data_value": "1.5",
+        "data_label": "1.5"
+    },
+    "1.6ghz": {
+        "url": "/telephone-tablette/?cpu_speed=1.6ghz#catalog-listing",
+        "data_value": "1.6ghz",
+        "data_label": "1.6ghz"
+    },
+    "1.8": {
+        "url": "/telephone-tablette/?cpu_speed=1.8#catalog-listing",
+        "data_value": "1.8",
+        "data_label": "1.8"
+    },
+    "1.20": {
+        "url": "/telephone-tablette/?cpu_speed=1.20#catalog-listing",
+        "data_value": "1.20",
+        "data_label": "1.20"
+    },
+    "1.30": {
+        "url": "/telephone-tablette/?cpu_speed=1.30#catalog-listing",
+        "data_value": "1.30",
+        "data_label": "1.30"
+    },
+    "1.40": {
+        "url": "/telephone-tablette/?cpu_speed=1.40#catalog-listing",
+        "data_value": "1.40",
+        "data_label": "1.40"
+    },
+    "1.60": {
+        "url": "/telephone-tablette/?cpu_speed=1.60#catalog-listing",
+        "data_value": "1.60",
+        "data_label": "1.60"
+    },
+    "2 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2+GHz#catalog-listing",
+        "data_value": "2 ghz",
+        "data_label": "2 GHz"
+    },
+    "2 GHz, 1,8 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2+GHz%2C+1%2C8+GHz#catalog-listing",
+        "data_value": "2 ghz, 1,8 ghz",
+        "data_label": "2 GHz, 1,8 GHz"
+    },
+    "2,0 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2%2C0+GHz#catalog-listing",
+        "data_value": "2,0 ghz",
+        "data_label": "2,0 GHz"
+    },
+    "2,05": {
+        "url": "/telephone-tablette/?cpu_speed=2%2C05#catalog-listing",
+        "data_value": "2,05",
+        "data_label": "2,05"
+    },
+    "2,3GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2%2C3GHz#catalog-listing",
+        "data_value": "2,3ghz",
+        "data_label": "2,3GHz"
+    },
+    "2,4 GHz, 2 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2%2C4+GHz%2C+2+GHz#catalog-listing",
+        "data_value": "2,4 ghz, 2 ghz",
+        "data_label": "2,4 GHz, 2 GHz"
+    },
+    "2,65 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2%2C65+GHz#catalog-listing",
+        "data_value": "2,65 ghz",
+        "data_label": "2,65 GHz"
+    },
+    "2,75 GHz, 2 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2%2C75+GHz%2C+2+GHz#catalog-listing",
+        "data_value": "2,75 ghz, 2 ghz",
+        "data_label": "2,75 GHz, 2 GHz"
+    },
+    "2.0 ghz": {
+        "url": "/telephone-tablette/?cpu_speed=2.0+ghz#catalog-listing",
+        "data_value": "2.0 ghz",
+        "data_label": "2.0 ghz"
+    },
+    "2.0 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2.0+GHz#catalog-listing",
+        "data_value": "2.0 ghz",
+        "data_label": "2.0 GHz"
+    },
+    "2.2": {
+        "url": "/telephone-tablette/?cpu_speed=2.2#catalog-listing",
+        "data_value": "2.2",
+        "data_label": "2.2"
+    },
+    "2.2GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2.2GHz#catalog-listing",
+        "data_value": "2.2ghz",
+        "data_label": "2.2GHz"
+    },
+    "2.2GHz, 2GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2.2GHz%2C+2GHz#catalog-listing",
+        "data_value": "2.2ghz, 2ghz",
+        "data_label": "2.2GHz, 2GHz"
+    },
+    "2.2Hz": {
+        "url": "/telephone-tablette/?cpu_speed=2.2Hz#catalog-listing",
+        "data_value": "2.2hz",
+        "data_label": "2.2Hz"
+    },
+    "2.3": {
+        "url": "/telephone-tablette/?cpu_speed=2.3#catalog-listing",
+        "data_value": "2.3",
+        "data_label": "2.3"
+    },
+    "2.4": {
+        "url": "/telephone-tablette/?cpu_speed=2.4#catalog-listing",
+        "data_value": "2.4",
+        "data_label": "2.4"
+    },
+    "2.4 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2.4%C2%A0GHz#catalog-listing",
+        "data_value": "2.4 ghz",
+        "data_label": "2.4 GHz"
+    },
+    "2.8GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2.8GHz+#catalog-listing",
+        "data_value": "2.8ghz ",
+        "data_label": "2.8GHz "
+    },
+    "2.9GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2.9GHz#catalog-listing",
+        "data_value": "2.9ghz",
+        "data_label": "2.9GHz"
+    },
+    "2.10": {
+        "url": "/telephone-tablette/?cpu_speed=2.10#catalog-listing",
+        "data_value": "2.10",
+        "data_label": "2.10"
+    },
+    "2.20": {
+        "url": "/telephone-tablette/?cpu_speed=2.20#catalog-listing",
+        "data_value": "2.20",
+        "data_label": "2.20"
+    },
+    "2.34": {
+        "url": "/telephone-tablette/?cpu_speed=2.34#catalog-listing",
+        "data_value": "2.34",
+        "data_label": "2.34"
+    },
+    "2GHz": {
+        "url": "/telephone-tablette/?cpu_speed=2GHz#catalog-listing",
+        "data_value": "2ghz",
+        "data_label": "2GHz"
+    },
+    "2Hz": {
+        "url": "/telephone-tablette/?cpu_speed=2Hz#catalog-listing",
+        "data_value": "2hz",
+        "data_label": "2Hz"
+    },
+    "2x2.65 GHz Lightning + 4x1.8": {
+        "url": "/telephone-tablette/?cpu_speed=2x2.65+GHz+Lightning+%2B+4x1.8#catalog-listing",
+        "data_value": "2x2.65 ghz lightning + 4x1.8",
+        "data_label": "2x2.65 GHz Lightning + 4x1.8"
+    },
+    "3": {
+        "url": "/telephone-tablette/?cpu_speed=3#catalog-listing",
+        "data_value": "3",
+        "data_label": "3"
+    },
+    "3,0GHz": {
+        "url": "/telephone-tablette/?cpu_speed=3%2C0GHz#catalog-listing",
+        "data_value": "3,0ghz",
+        "data_label": "3,0GHz"
+    },
+    "3,8GHz": {
+        "url": "/telephone-tablette/?cpu_speed=3%2C8GHz#catalog-listing",
+        "data_value": "3,8ghz",
+        "data_label": "3,8GHz"
+    },
+    "3,22 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=3%2C22+GHz#catalog-listing",
+        "data_value": "3,22 ghz",
+        "data_label": "3,22 GHz"
+    },
+    "3,23 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=3%2C23+GHz#catalog-listing",
+        "data_value": "3,23 ghz",
+        "data_label": "3,23 GHz"
+    },
+    "3,46 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=3%2C46+GHz#catalog-listing",
+        "data_value": "3,46 ghz",
+        "data_label": "3,46 GHz"
+    },
+    "3.1 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=3.1+GHz#catalog-listing",
+        "data_value": "3.1 ghz",
+        "data_label": "3.1 GHz"
+    },
+    "3.19": {
+        "url": "/telephone-tablette/?cpu_speed=3.19#catalog-listing",
+        "data_value": "3.19",
+        "data_label": "3.19"
+    },
+    "4,04 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=4%2C04+GHz#catalog-listing",
+        "data_value": "4,04 ghz",
+        "data_label": "4,04 GHz"
+    },
+    "4,05 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=4%2C05+GHz#catalog-listing",
+        "data_value": "4,05 ghz",
+        "data_label": "4,05 GHz"
+    },
+    "4,4 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=4%2C4+GHz#catalog-listing",
+        "data_value": "4,4 ghz",
+        "data_label": "4,4 GHz"
+    },
+    "4x1,8": {
+        "url": "/telephone-tablette/?cpu_speed=4x1%2C8#catalog-listing",
+        "data_value": "4x1,8",
+        "data_label": "4x1,8"
+    },
+    "4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55": {
+        "url": "/telephone-tablette/?cpu_speed=4x2.0+GHz+Cortex-A55+%26+4x2.0+GHz+Cortex-A55#catalog-listing",
+        "data_value": "4x2.0 ghz cortex-a55 & 4x2.0 ghz cortex-a55",
+        "data_label": "4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55"
+    },
+    "4×2.2 GHz": {
+        "url": "/telephone-tablette/?cpu_speed=4%C3%972.2+GHz#catalog-listing",
+        "data_value": "4×2.2 ghz",
+        "data_label": "4×2.2 GHz"
+    },
+    "90HZ": {
+        "url": "/telephone-tablette/?cpu_speed=90HZ#catalog-listing",
+        "data_value": "90hz",
+        "data_label": "90HZ"
+    },
+    "Fabricant Mediatek Helio G85": {
+        "url": "/telephone-tablette/?cpu_speed=Fabricant+Mediatek+Helio+G85+#catalog-listing",
+        "data_value": "fabricant mediatek helio g85 ",
+        "data_label": "Fabricant Mediatek Helio G85 "
+    },
+    "Fabricant Snapdragon 680 4G": {
+        "url": "/telephone-tablette/?cpu_speed=Fabricant+Snapdragon+680+4G#catalog-listing",
+        "data_value": "fabricant snapdragon 680 4g",
+        "data_label": "Fabricant Snapdragon 680 4G"
+    },
+    "MediaTek Helio G36": {
+        "url": "/telephone-tablette/?cpu_speed=MediaTek+Helio+G36#catalog-listing",
+        "data_value": "mediatek helio g36",
+        "data_label": "MediaTek Helio G36"
+    },
+    "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)": {
+        "url": "/telephone-tablette/?cpu_speed=Octa-core+%282x2.4+GHz+Cortex-A78+%26+6x2.0+GHz+Cortex-A55%29#catalog-listing",
+        "data_value": "octa-core (2x2.4 ghz cortex-a78 & 6x2.0 ghz cortex-a55)",
+        "data_label": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"
+    },
+    "Octa-core (4x2,4 GHz Kryo 265 Gold & 4x1,9 GHz Kryo 265 Silver)": {
+        "url": "/telephone-tablette/?cpu_speed=Octa-core+%284x2%2C4+GHz+Kryo+265+Gold+%26+4x1%2C9+GHz+Kryo+265+Silver%29#catalog-listing",
+        "data_value": "octa-core (4x2,4 ghz kryo 265 gold & 4x1,9 ghz kryo 265 silver)",
+        "data_label": "Octa-core (4x2,4 GHz Kryo 265 Gold & 4x1,9 GHz Kryo 265 Silver)"
+    },
+    "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)": {
+        "url": "/telephone-tablette/?cpu_speed=Octa-core+%284x2.35+GHz+Cortex-A53+%26+4x1.8+GHz+Cortex-A53%29#catalog-listing",
+        "data_value": "octa-core (4x2.35 ghz cortex-a53 & 4x1.8 ghz cortex-a53)",
+        "data_label": "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)"
+    },
+    "Octa-core T603": {
+        "url": "/telephone-tablette/?cpu_speed=Octa-core+T603#catalog-listing",
+        "data_value": "octa-core t603",
+        "data_label": "Octa-core T603"
+    },
+    "processeur graphique (GPU) 0 Mhz": {
+        "url": "/telephone-tablette/?cpu_speed=processeur+graphique+%28GPU%29+0+Mhz#catalog-listing",
+        "data_value": "processeur graphique (gpu) 0 mhz",
+        "data_label": "processeur graphique (GPU) 0 Mhz"
+    },
+    "T615": {
+        "url": "/telephone-tablette/?cpu_speed=T615#catalog-listing",
+        "data_value": "t615",
+        "data_label": "T615"
+    },
+    "Type de CPU Octa-Core": {
+        "url": "/telephone-tablette/?cpu_speed=Type+de+CPU+Octa-Core#catalog-listing",
+        "data_value": "type de cpu octa-core",
+        "data_label": "Type de CPU Octa-Core"
+    },
+    "Expédié depuis Maroc": {
+        "url": "/telephone-tablette/?shipped_from=country_local#catalog-listing",
+        "data_value": null,
+        "data_label": "country_local"
+    },
+    "reconditionné": {
+        "url": "/telephone-tablette/?campaign=REFU#catalog-listing",
+        "data_value": null,
+        "data_label": "REFU"
+    }
+}
