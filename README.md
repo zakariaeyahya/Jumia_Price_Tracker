@@ -1,4 +1,3 @@
-```markdown
 # Jumia Price Tracker 🛒📊
 
 Un projet d'analyse des prix des produits Jumia automatisé avec Apache Airflow.
@@ -97,6 +96,3 @@ Problèmes courants :
 - Données manquantes → Tester avec une seule catégorie
 
 ⚠️ **Note** : Respectez le `robots.txt` de Jumia et évitez les requêtes intensives.
-```
-
-Ce README fournit une documentation complète tout en restant visuellement clair. Vous pouvez l'adapter selon vos besoins spécifiques !
