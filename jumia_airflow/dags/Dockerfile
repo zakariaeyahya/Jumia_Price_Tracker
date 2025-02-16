@@ -8,5 +8,6 @@ RUN apt-get update && \
     && rm -rf /var/lib/apt/lists/*
 
 COPY --chown=airflow:root requirements.txt /requirements.txt
+
 USER airflow
 RUN pip install --no-cache-dir -r /requirements.txt
