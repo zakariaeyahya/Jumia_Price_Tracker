@@ -6,6 +6,11 @@ import time
 
 class JumiaScraper:
     def __init__(self):
+        # Définir le chemin de base en fonction du script
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        self.base_directory = os.path.abspath(os.path.join(script_dir, '../..'))
+        self.data_directory = os.path.join(self.base_directory, 'jumia_data')
+        
         self.base_url = "https://www.jumia.ma"
         self.start_url = "https://www.jumia.ma/telephone-tablette/n"
         self.headers = {
@@ -17,10 +22,14 @@ class JumiaScraper:
     def create_directory(self, path):
         if not os.path.exists(path):
             os.makedirs(path)
+            print(f"Créé le répertoire: {path}")
             
     def save_json(self, data, filename):
-        with open(filename, 'w', encoding='utf-8') as json_file:
+        full_path = os.path.join(self.data_directory, filename)
+        os.makedirs(os.path.dirname(full_path), exist_ok=True)
+        with open(full_path, 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
+        print(f"Fichier sauvegardé: {full_path}")
             
     def get_page_content(self, url):
         try:
@@ -46,12 +55,12 @@ class JumiaScraper:
     def scrape_content(self):
         try:
             print("Début du scraping...")
+            print(f"Dossier de base: {self.base_directory}")
+            print(f"Dossier de données: {self.data_directory}")
             
             # Création des dossiers principaux
-            self.create_directory("jumia_data")
-            self.create_directory("jumia_data/elements")
-            self.create_directory("jumia_data/categories")
-            self.create_directory("jumia_data/subcategories")
+            for subdir in ['elements', 'categories', 'subcategories']:
+                self.create_directory(os.path.join(self.data_directory, subdir))
             
             # Scraping de la page principale
             main_soup = self.get_page_content(self.start_url)
@@ -60,7 +69,7 @@ class JumiaScraper:
                 
             # Extraction des éléments principaux
             main_elements = self.extract_elements(main_soup)
-            self.save_json(main_elements, "jumia_data/elements/elements.json")
+            self.save_json(main_elements, "elements/elements.json")
             
             # Création de la liste des liens avec leurs sous-éléments
             all_categories = []
@@ -86,36 +95,14 @@ class JumiaScraper:
                         # Sauvegarde des sous-éléments dans un fichier séparé
                         safe_filename = "".join(x for x in element["text"] if x.isalnum() or x in [' ', '-', '_']).rstrip()
                         safe_filename = safe_filename.replace(' ', '_')
-                        self.save_json(sub_elements, f"jumia_data/subcategories/{safe_filename}.json")
+                        self.save_json(sub_elements, f"subcategories/{safe_filename}.json")
                         print(f"Sous-éléments sauvegardés pour {element['text']} ({len(sub_elements)} éléments)")
                         
                     all_categories.append(category_data)
-                    time.sleep(1)  # Pause pour éviter de surcharger le serveur
+                    time.sleep(1)
             
             # Sauvegarde de toutes les catégories avec leurs sous-éléments
-            self.save_json(all_categories, "jumia_data/categories/all_categories.json")
-            
-            # Scraping des marques et autres filtres
-            articles = main_soup.find_all('article', class_="-phs -bt")
-            for article in articles:
-                h2 = article.find('h2', class_="-m -upp -fs14 -pvxs")
-                if h2:
-                    category_name = h2.text.strip()
-                    brand_elements = article.find_all('a', class_="fk-cb -me-start -fsh0")
-                    
-                    brands_data = []
-                    for brand in brand_elements:
-                        brands_data.append({
-                            'name': brand.text.strip(),
-                            'url': brand.get('href'),
-                            'data_value': brand.get('data-value'),
-                            'data_label': brand.get('data-eventlabel')
-                        })
-                    
-                    if brands_data:
-                        safe_filename = "".join(x for x in category_name if x.isalnum() or x in [' ', '-', '_']).rstrip()
-                        safe_filename = safe_filename.replace(' ', '_')
-                        self.save_json(brands_data, f"jumia_data/categories/{safe_filename}.json")
+            self.save_json(all_categories, "categories/all_categories.json")
             
             print("\nScraping terminé avec succès!")
             return True
