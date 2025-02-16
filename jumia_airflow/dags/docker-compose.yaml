@@ -1,4 +1,3 @@
-version: '3'
 services:
   postgres:
     image: postgres:13
@@ -16,11 +15,11 @@ services:
     environment:
       - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
       - AIRFLOW__CORE__EXECUTOR=LocalExecutor
-      - _AIRFLOW_DB_UPGRADE=true
+      - _AIRFLOW_DB_MIGRATE=true
       - _AIRFLOW_WWW_USER_CREATE=true
       - _AIRFLOW_WWW_USER_USERNAME=airflow
       - _AIRFLOW_WWW_USER_PASSWORD=airflow
-    command: db init
+    command: db migrate
 
   airflow-webserver:
     build: .
@@ -28,15 +27,13 @@ services:
       - postgres
       - airflow-init
     environment:
-      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
       - AIRFLOW__CORE__EXECUTOR=LocalExecutor
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - ./data:/opt/airflow/data
       - ./jumia_data:/opt/airflow/data/jumia_data
-
-  
     ports:
       - "8080:8080"
     command: airflow webserver
@@ -47,14 +44,13 @@ services:
       - postgres
       - airflow-init
     environment:
-      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
       - AIRFLOW__CORE__EXECUTOR=LocalExecutor
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - ./data:/opt/airflow/data
-      - ./jumia_data/subcategories:/opt/airflow/data/jumia_data/subcategories
-
+      - ./jumia_data:/opt/airflow/data/jumia_data
     command: airflow scheduler
 
 volumes:
