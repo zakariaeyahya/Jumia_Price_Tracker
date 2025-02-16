@@ -1,95 +1,108 @@
-# Dans le DAG (jumia_scraper_dag.py)
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
-import pandas as pd
 import os
 from scripts.jumia_category_scraper import JumiaScraper
 from scripts.jumia_product_scraper import JumiaDataExtractor
-from scripts.jumia_data_organizer import JumiaDataOrganizer  # Nouveau import
+from scripts.jumia_data_organizer import JumiaDataOrganizer
 
-BASE_PATH = "/opt/airflow/data"
-HISTORY_FILE = os.path.join(BASE_PATH, "price_history.csv")
-
-def extract_categories():
+def extract_categories(**context):
+    """Extraire les catégories de Jumia"""
+    print("Début de l'extraction des catégories...")
     scraper = JumiaScraper()
-    scraper.scrape_content()
+    success = scraper.scrape_content()
+    
+    if not success:
+        raise Exception("Échec de l'extraction des catégories")
+    
+    return "Catégories extraites avec succès"
 
-def extract_products():
-    extractor = JumiaDataExtractor(BASE_PATH)
-    return extractor.process_all_categories()
-
-def update_price_history(**context):
-    ti = context['task_instance']
-    new_products = ti.xcom_pull(task_ids='extract_products')
+def extract_products(**context):
+    """Extraire les produits de toutes les catégories"""
+    print("Début de l'extraction des produits...")
+    extractor = JumiaDataExtractor()
     
-    new_df = pd.DataFrame(new_products)
-    current_date = datetime.now().strftime('%Y-%m-%d')
-    price_col = f'price_{current_date}'
-    new_df = new_df.rename(columns={'price': price_col})
+    # Convertir d'abord les données JSON en CSV
+    csv_path = extractor.convert_json_to_csv()
+    if not csv_path:
+        raise Exception("Échec de la conversion JSON vers CSV")
+        
+    # Extraire les produits
+    products = extractor.process_all_categories()
+    if not products:
+        raise Exception("Aucun produit extrait")
     
-    if os.path.exists(HISTORY_FILE):
-        history_df = pd.read_csv(HISTORY_FILE)
-        merged_df = pd.merge(
-            history_df,
-            new_df[['product_id', price_col]],
-            on='product_id',
-            how='outer'
-        )
-    else:
-        merged_df = new_df
-    
-    merged_df.to_csv(HISTORY_FILE, index=False)
-    return HISTORY_FILE
+    return "Produits extraits avec succès"
 
 def organize_data(**context):
-    """Nouvelle fonction pour organiser les données"""
-    ti = context['task_instance']
-    history_file = ti.xcom_pull(task_ids='update_price_history')
+    """Organiser les données collectées"""
+    print("Début de l'organisation des données...")
+    organizer = JumiaDataOrganizer()
     
-    organizer = JumiaDataOrganizer(BASE_PATH)
-    organizer.process_new_data(history_file)
+    if not organizer.process_new_data():
+        raise Exception("Échec de l'organisation des données")
+    
+    if not organizer.archive_old_data(days_to_keep=30):
+        print("Attention: Échec de l'archivage des anciennes données")
+    
+    return "Données organisées avec succès"
 
+# Configuration du DAG
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'start_date': datetime(2024, 1, 26),
+    'email_on_failure': True,
+    'email_on_retry': False,
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }
 
-dag = DAG(
+with DAG(
     'jumia_price_tracker',
     default_args=default_args,
-    description='Track Jumia product prices weekly',
-    schedule_interval='0 0 * * 0',
-    catchup=False
-)
-
-task1 = PythonOperator(
-    task_id='extract_categories',
-    python_callable=extract_categories,
-    dag=dag,
-)
-
-task2 = PythonOperator(
-    task_id='extract_products',
-    python_callable=extract_products,
-    dag=dag,
-)
-
-task3 = PythonOperator(
-    task_id='update_price_history',
-    python_callable=update_price_history,
-    provide_context=True,
-    dag=dag,
-)
-
-task4 = PythonOperator(
-    task_id='organize_data',
-    python_callable=organize_data,
-    provide_context=True,
-    dag=dag,
-)
-
-task1 >> task2 >> task3 >> task4
+    description='Suivi quotidien des prix Jumia',
+    schedule_interval='0 12 * * *',  # Tous les jours à midi
+    start_date=datetime(2025, 2, 16),
+    catchup=False,
+    tags=['jumia', 'scraping', 'prices'],
+) as dag:
+    
+    # Tâche 1: Extraction des catégories
+    task1 = PythonOperator(
+        task_id='extract_categories',
+        python_callable=extract_categories,
+        doc_md="""
+        ### Extraction des catégories
+        Cette tâche extrait toutes les catégories et sous-catégories de Jumia.
+        Les données sont sauvegardées au format JSON.
+        """,
+    )
+    
+    # Tâche 2: Extraction des produits
+    task2 = PythonOperator(
+        task_id='extract_products',
+        python_callable=extract_products,
+        doc_md="""
+        ### Extraction des produits
+        Cette tâche:
+        1. Convertit les données JSON en CSV
+        2. Extrait tous les produits de chaque catégorie
+        3. Sauvegarde les données au format CSV
+        """,
+    )
+    
+    # Tâche 3: Organisation des données
+    task3 = PythonOperator(
+        task_id='organize_data',
+        python_callable=organize_data,
+        doc_md="""
+        ### Organisation des données
+        Cette tâche:
+        1. Organise les données par date et catégorie
+        2. Archive les anciennes données
+        3. Maintient une structure de dossiers propre
+        """,
+    )
+    
+    # Définir l'ordre des tâches
+    task1 >> task2 >> task3
