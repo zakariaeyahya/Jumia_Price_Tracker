@@ -1,98 +1,189 @@
-# Jumia Price Tracker 🛒📊
+# Jumia Price Tracker
 
-Un projet d'analyse des prix des produits Jumia automatisé avec Apache Airflow.
+## Description
 
-## 📌 Aperçu du Projet
-Ce projet permet de tracker quotidiennement les prix des produits sur Jumia.ma en utilisant :
-- **Web Scraping** pour collecter les données
-- **Airflow** pour l'orchestration des tâches
-- **Pandas** pour le traitement des données
-- Un système de stockage organisé avec historique des prix
+Jumia Price Tracker est un système automatisé de surveillance des prix sur Jumia.ma. Il collecte quotidiennement les données des produits, les organise et maintient un historique des prix pour analyse.
 
-## ✨ Fonctionnalités Clés
-- 🕸 Scraping des catégories et sous-catégories
-- 📦 Extraction des détails produits (nom, prix, marque, URL)
-- 📅 Historique des prix avec suivi quotidien
-- 🗂 Organisation automatique des données par date/catégorie
-- ⏲ Exécution planifiée (tous les dimanches à minuit)
+## Fonctionnalités
 
-## 🗂 Structure du Projet
-```
-jumia_price_tracker/
-├── dags/
-│   ├── jumia_scraper_dag.py           # DAG principal Airflow
-│   └── scripts/
-│       ├── jumia_category_scraper.py  # Scraping des catégories
-│       ├── jumia_product_scraper.py   # Extraction des produits
-│       └── jumia_data_organizer.py    # Organisation des données
-├── data/
-│   ├── daily_data/                    # Dossiers par date
-│   └── price_history.csv              # Historique consolidé
-```
+- 🔍 Extraction automatique des catégories et sous-catégories
+- 📊 Collecte des données produits (prix, caractéristiques, etc.)
+- 📅 Organisation quotidienne des données
+- 📦 Archivage automatique des données anciennes
+- 🔄 Pipeline Airflow pour l'automatisation complète
 
-## 🛠 Installation
-1. Prérequis :
+## Prérequis
+
+- Python 3.8+
+- Apache Airflow 2.0+
+- Pandas
+- BeautifulSoup4
+- Requests
+
+## Installation
+
+### Cloner le repository
+
 ```bash
-Python 3.8+
-Apache Airflow 2.0+
+git clone https://github.com/zakariaeyahya/Jumia_Price_Tracker.git
+cd Jumia_Price_Tracker
+```
+
+### Créer un environnement virtuel
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+```
+
+### Installer les dépendances
+
+```bash
 pip install -r requirements.txt
 ```
-(requirements.txt)
-```
-apache-airflow
-pandas
-requests
-beautifulsoup4
-```
 
-2. Configuration Airflow :
+### Configurer Airflow
+
 ```bash
 export AIRFLOW_HOME=~/airflow
 airflow db init
 ```
 
-## ⚙ Configuration
-Modifier ces paramètres dans `jumia_scraper_dag.py` si nécessaire :
-```python
-BASE_PATH = "/opt/airflow/data"  # Chemin de stockage
-SCHEDULE_INTERVAL = '0 0 * * 0'  # Exécution hebdomadaire
+## Structure du Projet
+
+```
+Jumia_Price_Tracker/
+├── airflow/
+│   └── dags/
+│       └── jumia_price_tracker_dag.py
+├── scripts/
+│   ├── jumia_category_scraper.py
+│   ├── jumia_product_scraper.py
+│   └── jumia_data_organizer.py
+├── data/
+│   └── README.md
+├── daily_data/
+│   ├── YYYYMMDD/
+│   └── archives/
+├── requirements.txt
+└── README.md
 ```
 
-## ▶ Exécution
-1. Démarrer Airflow :
+## Configuration
+
+### Variables d'Environnement
+
+Créer un fichier `.env` à la racine du projet :
+
+```
+JUMIA_BASE_URL=https://www.jumia.ma
+AIRFLOW_HOME=/chemin/vers/airflow
+```
+
+### Configuration Airflow
+
+Le DAG est configuré pour s'exécuter quotidiennement à midi :
+
+```python
+schedule_interval='0 12 * * *'
+```
+
+## Utilisation
+
+### Via Airflow UI
+
+#### Démarrer le webserver Airflow
+
 ```bash
-airflow webserver
+airflow webserver --port 8080
+```
+
+#### Démarrer le scheduler
+
+```bash
 airflow scheduler
 ```
-2. Activer le DAG dans l'interface Airflow
 
-## 🔄 Flux de Données
-1. `extract_categories` → Scraping de l'arborescence
-2. `extract_products` → Extraction des produits
-3. `update_price_history` → Mise à jour CSV historique
-4. `organize_data` → Archivage quotidien
+#### Accéder à l'interface Airflow
 
-## 📁 Stockage des Données
-Exemple de structure générée :
-```
-data/
-├── daily_data/
-│   └── 20240128/
-│       ├── jumia_data_20240128.csv
-│       └── category_Telephones_20240128.csv
-└── price_history.csv
+[http://localhost:8080](http://localhost:8080)
+
+#### Activer le DAG 'jumia_price_tracker'
+
+### Exécution Manuelle
+
+Les scripts peuvent être exécutés individuellement :
+
+```bash
+python scripts/jumia_category_scraper.py
+python scripts/jumia_product_scraper.py
+python scripts/jumia_data_organizer.py
 ```
 
-## 🔧 Personnalisation
-Variables à adapter :
-- Catégories cibles : Modifier `start_url` dans `JumiaScraper`
-- Fréquence d'exécution : Modifier `schedule_interval` dans le DAG
-- Stockage : Modifier `BASE_PATH` selon l'environnement
+## Données Collectées
 
-## 🚨 Dépannage
-Problèmes courants :
-- Erreurs de scraping → Vérifier les User-Agents
-- Problèmes de chemin → Vérifier les permissions
-- Données manquantes → Tester avec une seule catégorie
+### Format des Données
 
-⚠️ **Note** : Respectez le `robots.txt` de Jumia et évitez les requêtes intensives.
+Les données sont sauvegardées en CSV avec les champs suivants :
+
+- `name` : Nom du produit
+- `price` : Prix actuel
+- `brand` : Marque
+- `category` : Catégorie
+- `displayed_price` : Prix affiché
+- `product_url` : URL du produit
+- etc.
+
+### Organisation
+
+- Données quotidiennes : `/daily_data/YYYYMMDD/`
+- Archives : `/daily_data/archives/`
+- Données par catégorie : `/daily_data/YYYYMMDD/category_*`
+
+## Maintenance
+
+### Tâches Régulières
+
+- Vérifier l'espace disque disponible
+- Monitorer les logs Airflow
+- Vérifier les archives
+- Nettoyer les données temporaires
+
+## Dépannage
+
+- Vérifier les logs dans `/airflow/logs/`
+- Consulter le statut des tâches dans l'UI Airflow
+- Vérifier les fichiers CSV générés
+
+## Contribution
+
+- Fork le projet
+- Créer une branche (`git checkout -b feature/ma-feature`)
+- Commit les changements (`git commit -m 'Ajout de ma feature'`)
+- Push vers la branche (`git push origin feature/ma-feature`)
+- Créer une Pull Request
+
+## Sécurité
+
+- Ne pas commiter de données sensibles
+- Utiliser des variables d'environnement
+- Respecter les règles de scraping de Jumia
+- Implémenter des délais entre les requêtes
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+## Contact
+
+Pour toute question ou suggestion :
+
+- Email : zakariae.yh@gmail.com
+- Issues : [https://github.com/zakariaeyahya/Jumia_Price_Tracker/issues](https://github.com/zakariaeyahya/Jumia_Price_Tracker/issues)
+
+## Remerciements
+
+- Équipe Airflow pour leur excellent framework
+- Contributeurs du projet
+- Communauté Python pour les outils et bibliothèques
