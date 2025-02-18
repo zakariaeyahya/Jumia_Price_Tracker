@@ -58,55 +58,52 @@ class JumiaDataOrganizer:
         return "".join(c for c in filename if c.isalnum() or c in ['-', '_']).strip()
 
     def process_new_data(self):
-        """Traiter les nouvelles données et les organiser"""
+        """Traiter toutes les nouvelles données CSV et les organiser"""
         try:
-            # Trouver le fichier le plus récent
-            source_file = self.get_latest_all_products_file()
-            if not source_file:
+            # Trouver tous les fichiers CSV dans le dossier data
+            csv_pattern = os.path.join(self.data_directory, "*.csv")
+            csv_files = glob.glob(csv_pattern)
+            
+            if not csv_files:
+                print(f"Aucun fichier CSV trouvé dans {self.data_directory}")
                 return False
-
-            # Lire les données source
-            print(f"Lecture du fichier: {source_file}")
-            df = pd.read_csv(source_file)
-            current_date = datetime.now().strftime('%Y%m%d')
-
+                
             # Créer le dossier quotidien
+            current_date = datetime.now().strftime('%Y%m%d')
             daily_folder = self.create_daily_folder()
-
-            # Sauvegarder le fichier complet
-            daily_file = os.path.join(daily_folder, f"jumia_data_{current_date}.csv")
-            df.to_csv(daily_file, index=False)
-            print(f"Fichier complet sauvegardé: {daily_file}")
-
-            # Créer des fichiers par catégorie
-            if 'category' in df.columns:
-                for category in df['category'].unique():
-                    if pd.notna(category):  # Vérifier que la catégorie n'est pas NaN
-                        category_data = df[df['category'] == category]
-                        category_name = self.clean_filename(str(category))
-                        category_file = os.path.join(
-                            self.categories_path,
-                            f"category_{category_name}_{current_date}.csv"
-                        )
-                        category_data.to_csv(category_file, index=False)
-                        print(f"Fichier catégorie sauvegardé: {category_file}")
-
-            # Créer des fichiers par sous-catégorie
-            if 'subcategory' in df.columns:
-                for subcategory in df['subcategory'].unique():
-                    if pd.notna(subcategory):  # Vérifier que la sous-catégorie n'est pas NaN
-                        subcategory_data = df[df['subcategory'] == subcategory]
-                        subcategory_name = self.clean_filename(str(subcategory))
-                        subcategory_file = os.path.join(
-                            self.subcategories_path,
-                            f"subcategory_{subcategory_name}_{current_date}.csv"
-                        )
-                        subcategory_data.to_csv(subcategory_file, index=False)
-                        print(f"Fichier sous-catégorie sauvegardé: {subcategory_file}")
-
-            print(f"Données traitées avec succès pour la date {current_date}")
-            return True
-
+            
+            files_processed = 0
+            for source_file in csv_files:
+                try:
+                    # Obtenir le nom de base du fichier
+                    base_filename = os.path.basename(source_file)
+                    print(f"\nTraitement du fichier: {base_filename}")
+                    
+                    # Lire le fichier CSV
+                    df = pd.read_csv(source_file)
+                    print(f"Lu {len(df)} lignes de données")
+                    
+                    # Créer le nouveau nom de fichier avec la date
+                    new_filename = f"{os.path.splitext(base_filename)[0]}_{current_date}.csv"
+                    new_filepath = os.path.join(daily_folder, new_filename)
+                    
+                    # Sauvegarder dans le dossier quotidien
+                    df.to_csv(new_filepath, index=False)
+                    print(f"Fichier sauvegardé: {new_filepath}")
+                    
+                    files_processed += 1
+                    
+                except Exception as e:
+                    print(f"Erreur lors du traitement de {base_filename}: {str(e)}")
+                    continue
+            
+            if files_processed > 0:
+                print(f"\nTraitement terminé. {files_processed} fichiers traités avec succès.")
+                return True
+            else:
+                print("Aucun fichier n'a été traité avec succès.")
+                return False
+                
         except Exception as e:
             print(f"Erreur lors du traitement des données: {str(e)}")
             import traceback
