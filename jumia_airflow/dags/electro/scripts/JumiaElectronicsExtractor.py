@@ -8,7 +8,7 @@ import time
 
 class JumiaElectronicsExtractor:
     def __init__(self):
-        self.base_directory = "/data/jumia"
+        self.base_directory = "D:/bureau/grand projet/jumia/electro/data"
         self.json_directory = self.base_directory
         self.data_directory = os.path.join(self.base_directory, 'data')
         self.data_directory = os.path.join(self.base_directory, 'data')
