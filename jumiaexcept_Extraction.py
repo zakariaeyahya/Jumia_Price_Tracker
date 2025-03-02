@@ -130,3 +130,4 @@ if __name__ == "__main__":
     for category, url in categories.items():
         scraper = JumiaScraper(category, url)
         scraper.run()
+
